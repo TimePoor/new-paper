@@ -1,7 +1,14 @@
 {
-  "articleCount": 1,
-  "lastUpdated": "2025-08-18T06:44:35.081Z",
+  "articleCount": 2,
+  "lastUpdated": "2025-08-18T08:00:47.431Z",
   "recentArticles": [
+    {
+      "id": "20250818-1755504045668",
+      "thumbnail": "",
+      "publishedAt": "2025-08-18T08:00:45.668Z",
+      "author": "편집부",
+      "views": 0
+    },
     {
       "id": "20250818-1755493371568",
       "thumbnail": "",
