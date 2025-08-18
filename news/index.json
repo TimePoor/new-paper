@@ -1,14 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "20250818-1755493371568",
-      "thumbnail": "",
-      "publishedAt": "2025-08-18T05:02:51.568Z",
-      "author": "샘플",
-      "views": 0,
-      "featured": false
-    }
-  ],
-  "lastUpdated": "2025-08-18T06:44:34.522Z",
-  "totalArticles": 1
+  "articles": [],
+  "lastUpdated": "2025-08-18T07:15:32.518Z",
+  "totalArticles": 0
 }
