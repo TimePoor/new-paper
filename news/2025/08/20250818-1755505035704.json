@@ -1,0 +1,27 @@
+{
+  "id": "20250818-1755505035704",
+  "subtitle": "",
+  "subcategory": "",
+  "tags": [],
+  "author": {
+    "name": "편집부",
+    "role": "기자",
+    "email": "news@issueinside.com"
+  },
+  "images": {
+    "main": "",
+    "thumbnail": ""
+  },
+  "metadata": {
+    "publishedAt": "2025-08-18T08:17:15.704Z",
+    "updatedAt": "2025-08-18T08:17:15.704Z",
+    "views": 0,
+    "featured": false,
+    "pinned": false,
+    "status": "published"
+  },
+  "seo": {
+    "keywords": [],
+    "ogImage": ""
+  }
+}
