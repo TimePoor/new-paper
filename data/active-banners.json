@@ -1,6 +1,42 @@
 {
-  "version": "2.1755804907387",
-  "lastUpdated": "2025-08-21T19:35:07.387Z",
-  "count": 0,
-  "banners": []
+  "version": "2.1755807653362",
+  "lastUpdated": "2025-08-21T20:20:53.362Z",
+  "count": 4,
+  "banners": [
+    {
+      "id": "banner_1755803994808_whxxog6xz",
+      "name": "헤더배너테스트",
+      "position": "header",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    },
+    {
+      "id": "banner_1755804904512_rr3pmhw65",
+      "name": "헤더배너테스트",
+      "position": "header",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755804904512_rr3pmhw65.png",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    },
+    {
+      "id": "banner_1755807522433_3m4bbzeva",
+      "name": "헤더배너테스트",
+      "position": "header",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755807518570_gw93utxk6_1755807518585_9oa6q.png",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    },
+    {
+      "id": "banner_1755807520533_guk1z47r8",
+      "name": "헤더배너테스트",
+      "position": "header",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755807518569_8z3oq0b5r_1755807518585_0b3fv.png",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    }
+  ]
 }
