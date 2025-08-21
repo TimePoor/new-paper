@@ -11,5 +11,17 @@
     "updatedAt": "2025-08-21T07:59:30.917Z",
     "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/banners/1755763170924_rjdsh679d.png",
     "imageName": "1755763170924_rjdsh679d.png"
+  },
+  {
+    "id": "banner_1755765192637",
+    "name": "Firebase 테스트 배너",
+    "position": "header",
+    "imageUrl": "https://via.placeholder.com/728x90/00FF00/FFFFFF?text=FIREBASE+TEST",
+    "link": "https://example.com",
+    "active": true,
+    "scheduled": false,
+    "isPopup": false,
+    "createdAt": "2025-08-21T08:33:12.637Z",
+    "updatedAt": "2025-08-21T08:33:12.831Z"
   }
 ]
