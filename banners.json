@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "banner_1755777565273",
+    "name": "헤더배너테스트",
+    "position": "header",
+    "link": "https://codepedia.kr",
+    "active": true,
+    "scheduled": false,
+    "isPopup": false,
+    "createdAt": "2025-08-21T11:59:25.273Z",
+    "updatedAt": "2025-08-21T11:59:22.057Z",
+    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/banners/1755777562066_fwe8cd1zt.png",
+    "imageName": "1755777562066_fwe8cd1zt.png"
+  }
+]
