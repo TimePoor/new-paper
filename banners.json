@@ -1,18 +1,5 @@
 [
   {
-    "id": "banner_1755761186303",
-    "name": "헤더배너테스트",
-    "position": "header",
-    "link": "",
-    "active": true,
-    "scheduled": false,
-    "isPopup": false,
-    "createdAt": "2025-08-21T07:26:26.303Z",
-    "updatedAt": "2025-08-21T07:26:24.389Z",
-    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/banners/1755761184390_nzn68h5c1.png",
-    "imageName": "1755761184390_nzn68h5c1.png"
-  },
-  {
     "id": "banner_1755761188168",
     "name": "헤더배너테스트",
     "position": "header",
