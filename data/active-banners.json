@@ -1,16 +1,8 @@
 {
-  "version": "2.1755807653362",
-  "lastUpdated": "2025-08-21T20:20:53.362Z",
-  "count": 4,
+  "version": "2.1755807663178",
+  "lastUpdated": "2025-08-21T20:21:03.178Z",
+  "count": 3,
   "banners": [
-    {
-      "id": "banner_1755803994808_whxxog6xz",
-      "name": "헤더배너테스트",
-      "position": "header",
-      "link": "https://codepedia.kr",
-      "isPopup": false,
-      "popupSettings": {}
-    },
     {
       "id": "banner_1755804904512_rr3pmhw65",
       "name": "헤더배너테스트",
