@@ -1,17 +1,8 @@
 {
-  "version": "2.1755807669226",
-  "lastUpdated": "2025-08-21T20:21:09.226Z",
-  "count": 2,
+  "version": "2.1755807677930",
+  "lastUpdated": "2025-08-21T20:21:17.930Z",
+  "count": 1,
   "banners": [
-    {
-      "id": "banner_1755807522433_3m4bbzeva",
-      "name": "헤더배너테스트",
-      "position": "header",
-      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755807518570_gw93utxk6_1755807518585_9oa6q.png",
-      "link": "https://codepedia.kr",
-      "isPopup": false,
-      "popupSettings": {}
-    },
     {
       "id": "banner_1755807520533_guk1z47r8",
       "name": "헤더배너테스트",
