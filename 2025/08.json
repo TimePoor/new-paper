@@ -1,7 +1,33 @@
 {
   "year": 2025,
   "month": 8,
-  "articles": [],
-  "lastUpdated": "2025-08-22T04:31:17.369Z",
-  "count": 0
+  "articles": [
+    {
+      "id": "20250822-1755837475468-bdjftz",
+      "title": "2025년 정기국회 예산안 심의 본격 돌입",
+      "subtitle": "여야 첨예한 대립 속 민생 예산 확보 주목",
+      "category": "politics",
+      "summary": "2025년도 예산안 심의가 본격적으로 시작되면서 여야 간 첨예한 대립이 예상된다. 특히 민생 관련 예산을 둘러싼 공방이 치열할 전망이다.",
+      "content": "국회 예산결산특별위원회는 오늘 전체회의를 열고 2025년도 예산안 심의 일정을 확정했다.<div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><img id=\"img_dxbzz8eu1\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/2025/08/1755837472929_j8h1q5rwk.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></div><div bis_skin_checked=\"1\">&nbsp;총 예산 규모는 670조원으로 전년 대비 3.2% 증가했다.기획재정부 관계자는 \"이번 예산안은 민생 회복과 미래 성장동력 확보에 중점을 두었다\"고 설명했다. 특히 복지 예산이 전체의 35.8%를 차지하는 240조원에 달해 역대 최대 규모를 기록했다.주요 쟁점은 복지 예산 증액 범위, SOC 사업 우선순위, 지역 균형발전 예산 배분, 국방 예산 증액 규모 등이다. 여당은 경제 활성화를 위한 투자 확대를, 야당은 서민 복지 강화를 각각 강조하고 있어 합의점 도출이 쉽지 않을 전망이다.</div>",
+      "author": {
+        "name": "김정치",
+        "email": ""
+      },
+      "tags": [
+        "국회",
+        "예산안",
+        "정치",
+        "2025예산"
+      ],
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-22T04:37:55.468Z",
+        "updatedAt": "2025-08-22T04:37:55.468Z",
+        "views": 0
+      }
+    }
+  ],
+  "lastUpdated": "2025-08-22T04:38:22.872Z",
+  "count": 1
 }
