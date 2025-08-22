@@ -1,9 +1,9 @@
 {
   "version": "3.0",
-  "lastUpdated": "2025-08-22T08:37:52.249Z",
+  "lastUpdated": "2025-08-22T08:55:58.341Z",
   "files": [
     "articles_001.json"
   ],
-  "totalArticles": 3,
+  "totalArticles": 4,
   "structure": "split_100"
 }
