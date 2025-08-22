@@ -1,33 +1,7 @@
 {
   "year": 2025,
   "month": 8,
-  "articles": [
-    {
-      "id": "20250822-1755834080910-g2qh5i",
-      "title": "한국은행, 기준금리 3.25% 동결 결정",
-      "subtitle": "물가 안정세 속 경제 성장률 둔화 우려 반영",
-      "category": "economy",
-      "summary": "한국은행 금융통화위원회가 기준금리를 연 3.25%로 동결했다. 물가 상승세는 둔화되고 있으나 경제 성장 전망 불확실성을 고려한 결정이다.",
-      "content": "<div bis_skin_checked=\"1\"><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p></div>한국은행 금융통화위원회는 22일 기준금리를 현 수준인 연 3.25%로 유지하기로 결정했다. 이는 시장 예상과 일치하는 결과로, 금통위는 3개월 연속 금리를 동결했다.<div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p><p><img id=\"img_7ktlh22wh\" src=\"https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/article/1755834079800_sv8p8dvyq.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></p><p><br></p><p>이미지 삽입 테스트</p></div>",
-      "author": {
-        "name": "박경제",
-        "email": ""
-      },
-      "tags": [
-        "한국은행",
-        "기준금리",
-        "통화정책",
-        "경제"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-22T03:41:20.910Z",
-        "updatedAt": "2025-08-22T03:41:20.910Z",
-        "views": 0
-      }
-    }
-  ],
-  "lastUpdated": "2025-08-22T04:40:00.000Z",
-  "count": 1
+  "articles": [],
+  "lastUpdated": "2025-08-22T04:31:17.369Z",
+  "count": 0
 }
