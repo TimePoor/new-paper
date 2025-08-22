@@ -1,28 +1,7 @@
 {
   "fileNumber": 1,
   "createdAt": "2025-08-22T07:49:58.841Z",
-  "articles": [
-    {
-      "id": "article_1755848961585_67kv3t6vl",
-      "title": "샘플",
-      "subtitle": "",
-      "category": "opinion",
-      "summary": "샘플",
-      "content": "샘플",
-      "author": {
-        "name": "=",
-        "email": ""
-      },
-      "tags": [],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-22T07:49:21.585Z",
-        "updatedAt": "2025-08-22T07:49:21.165Z",
-        "views": 0
-      }
-    }
-  ],
-  "count": 1,
-  "lastUpdated": "2025-08-22T07:49:58.841Z"
+  "articles": [],
+  "count": 0,
+  "lastUpdated": "2025-08-22T07:53:36.049Z"
 }
