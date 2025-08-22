@@ -3,64 +3,31 @@
   "month": 8,
   "articles": [
     {
-      "id": "20250822-1755835670921-o1pp8h",
-      "title": "의정부시의회, 2025년도 첫 임시회 개최... 민생 현안 집중 논의",
-      "subtitle": "시민 안전 강화 조례안 등 7건 심의, 지역 상권 활성화 방안도 모색",
-      "category": "politics",
-      "summary": "의정부시의회가 2025년 첫 임시회를 열고 시민 생활과 직결된 주요 현안들을 집중 논의한다. 특히 최근 논란이 된 도시안전 문제와 전통시장 활성화 방안이 핵심 의제로 다뤄질 예정이다.",
-      "content": "의정부시의회(의장 김○○)는 오는 26일부터 다음달 3일까지 제○○○회 임시회를 개최한다고 22일 밝혔다.<div bis_skin_checked=\"1\">이번 임시회에서는 ▲의정부시 시민안전보험 운영 조례 일부개정조례안 ▲의정부시 소상공인 지원에 관한 조례 일부개정조례안 ▲의정부시 전통시장 및 상점가 육성을 위한 조례 일부개정조례안 등 총 7건의 안건이 상정된다.</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><img id=\"img_99psm3je2\" src=\"https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/2025/08/1755835666488_rddnvhg14.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></div><div bis_skin_checked=\"1\">특히 시민안전보험 운영 조례 개정안은 최근 발생한 안전사고를 계기로 보장 범위를 확대하고 지급 절차를 간소화하는 내용을 담고 있어 주목받고 있다.</div><div bis_skin_checked=\"1\">김○○ 의장은 \"새해 첫 임시회인 만큼 시민들의 일상과 직결된 민생 현안을 꼼꼼히 살펴보겠다\"며 \"특히 지역 경제 활성화와 시민 안전 강화에 중점을 두고 심의를 진행할 계획\"이라고 말했다.</div>",
+      "id": "20250822-1755834080910-g2qh5i",
+      "title": "한국은행, 기준금리 3.25% 동결 결정",
+      "subtitle": "물가 안정세 속 경제 성장률 둔화 우려 반영",
+      "category": "economy",
+      "summary": "한국은행 금융통화위원회가 기준금리를 연 3.25%로 동결했다. 물가 상승세는 둔화되고 있으나 경제 성장 전망 불확실성을 고려한 결정이다.",
+      "content": "<div bis_skin_checked=\"1\"><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p></div>한국은행 금융통화위원회는 22일 기준금리를 현 수준인 연 3.25%로 유지하기로 결정했다. 이는 시장 예상과 일치하는 결과로, 금통위는 3개월 연속 금리를 동결했다.<div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p><p><img id=\"img_7ktlh22wh\" src=\"https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/article/1755834079800_sv8p8dvyq.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></p><p><br></p><p>이미지 삽입 테스트</p></div>",
       "author": {
-        "name": "김정치",
+        "name": "박경제",
         "email": ""
       },
       "tags": [
-        "폭염",
-        "기후변화",
-        "온열질환",
-        "여름",
-        "2025년",
-        "서울",
-        "기상청",
-        "자연재난"
+        "한국은행",
+        "기준금리",
+        "통화정책",
+        "경제"
       ],
       "metadata": {
         "status": "published",
-        "featured": true,
-        "publishedAt": "2025-08-22T04:07:50.920Z",
-        "updatedAt": "2025-08-22T04:07:50.920Z",
+        "featured": false,
+        "publishedAt": "2025-08-22T03:41:20.910Z",
+        "updatedAt": "2025-08-22T03:41:20.910Z",
         "views": 0
       }
-    },
-    {
-      "id": "20250822-1755835670915-nx2yb2",
-      "title": "의정부시의회, 2025년도 첫 임시회 개최... 민생 현안 집중 논의",
-      "subtitle": "시민 안전 강화 조례안 등 7건 심의, 지역 상권 활성화 방안도 모색",
-      "category": "politics",
-      "summary": "의정부시의회가 2025년 첫 임시회를 열고 시민 생활과 직결된 주요 현안들을 집중 논의한다. 특히 최근 논란이 된 도시안전 문제와 전통시장 활성화 방안이 핵심 의제로 다뤄질 예정이다.",
-      "content": "의정부시의회(의장 김○○)는 오는 26일부터 다음달 3일까지 제○○○회 임시회를 개최한다고 22일 밝혔다.<div bis_skin_checked=\"1\">이번 임시회에서는 ▲의정부시 시민안전보험 운영 조례 일부개정조례안 ▲의정부시 소상공인 지원에 관한 조례 일부개정조례안 ▲의정부시 전통시장 및 상점가 육성을 위한 조례 일부개정조례안 등 총 7건의 안건이 상정된다.</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><img id=\"img_99psm3je2\" src=\"https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/2025/08/1755835666488_cft9oy41k.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></div><div bis_skin_checked=\"1\">특히 시민안전보험 운영 조례 개정안은 최근 발생한 안전사고를 계기로 보장 범위를 확대하고 지급 절차를 간소화하는 내용을 담고 있어 주목받고 있다.</div><div bis_skin_checked=\"1\">김○○ 의장은 \"새해 첫 임시회인 만큼 시민들의 일상과 직결된 민생 현안을 꼼꼼히 살펴보겠다\"며 \"특히 지역 경제 활성화와 시민 안전 강화에 중점을 두고 심의를 진행할 계획\"이라고 말했다.</div>",
-      "author": {
-        "name": "김정치",
-        "email": ""
-      },
-      "tags": [
-        "폭염",
-        "기후변화",
-        "온열질환",
-        "여름",
-        "2025년",
-        "서울",
-        "기상청",
-        "자연재난"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": true,
-        "publishedAt": "2025-08-22T04:07:50.915Z",
-        "updatedAt": "2025-08-22T04:07:50.915Z",
-        "views": 0
-      }
-    },
+    }
   ],
-  "lastUpdated": "2025-08-22T04:08:49.372Z",
-  "count": 3
+  "lastUpdated": "2025-08-22T04:40:00.000Z",
+  "count": 1
 }
