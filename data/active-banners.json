@@ -1,0 +1,34 @@
+{
+  "version": "2.1755865064385",
+  "lastUpdated": "2025-08-22T12:17:44.385Z",
+  "count": 3,
+  "banners": [
+    {
+      "id": "banner_1755856751106_xtm9q6dr8",
+      "name": "헤더배너테스트",
+      "position": "header",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755856747124_oja8f7zqd_1755856747125_8u81c.png",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    },
+    {
+      "id": "banner_1755859999734_rbkm55ck2",
+      "name": "기사하단",
+      "position": "article-bottom",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755859996405_lykfbddw2_1755859996406_wbxvg.png",
+      "link": "https://codepedia.kr",
+      "isPopup": false,
+      "popupSettings": {}
+    },
+    {
+      "id": "banner_1755860056967_2b4vdowgg",
+      "name": "팝업",
+      "position": "popup",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755860055273_rt30qehcl_1755860055274_2bdjg.png",
+      "link": "https://codepedia.kr",
+      "isPopup": true,
+      "popupSettings": {}
+    }
+  ]
+}
