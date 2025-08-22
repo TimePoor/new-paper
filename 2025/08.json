@@ -3,6 +3,31 @@
   "month": 8,
   "articles": [
     {
+      "id": "20250822-1755837847499-yyfild",
+      "title": "한국은행, 기준금리 3.0% 동결 결정",
+      "subtitle": "물가 안정세 지속 관찰 필요성 강조",
+      "category": "economy",
+      "summary": "한국은행 금융통화위원회가 기준금리를 연 3.0%로 동결했다. 물가 상승률이 둔화되고 있지만 여전히 목표치를 상회하고 있어 신중한 접근이 필요하다는 판단이다.",
+      "content": "한국은행 금융통화위원회는 22일 열린 통화정책방향 회의에서 기준금리를 현 수준인 연 3.0%로 유지하기로 결정했다. 이는 시장 예상과 대체로 일치하는 결과다.이창용 한국은행 총재는 회의 후 기자간담회에서 소비자물가 상승률이 둔화 추세를 보이고 있으나 여전히 2% 목표치를 상회하고 있다며 향후 물가 안<div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><br></div><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p><div bis_skin_checked=\"1\">정세가 확고해질 때까지 현 수준의 기준금리를 유지할 필요가 있다고 설명했다.7월 소비자물가 상승률은 전년 동월 대비 2.6%를 기록해 전월 2.9%보다 하락했지만, 근원물가 상승률은 여전히 2.2%로 높은 수준을 유지하고 있다. 특히 서비스 물가가 3.5% 상승하며 물가 불안 요인으로 작용하고 있다.금융시장에서는 올해 말까지 기준금리가 현 수준을 유지할 것으로 전망하고 있으며, 내년 상반기 중 인하 가능성을 점치고 있다.</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><table><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 1-3</td></tr><tr><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-1</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-2</td><td style=\"border: 1px solid rgb(222, 226, 230);\">내용 2-3</td></tr></tbody></table><p><br></p></div>",
+      "author": {
+        "name": "이경제 ",
+        "email": ""
+      },
+      "tags": [
+        "한국은행",
+        "기준금리",
+        "통화정책",
+        "물가"
+      ],
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2025-08-22T04:44:07.499Z",
+        "updatedAt": "2025-08-22T04:44:07.499Z",
+        "views": 0
+      }
+    },
+    {
       "id": "20250822-1755837475468-bdjftz",
       "title": "2025년 정기국회 예산안 심의 본격 돌입",
       "subtitle": "여야 첨예한 대립 속 민생 예산 확보 주목",
@@ -28,6 +53,6 @@
       }
     }
   ],
-  "lastUpdated": "2025-08-22T04:38:22.872Z",
-  "count": 1
+  "lastUpdated": "2025-08-22T04:44:07.808Z",
+  "count": 2
 }
