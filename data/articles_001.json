@@ -3,6 +3,32 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1755853650865_sn50rxso5",
+      "title": "손흥민, 통산 200호골 달성... \"아시아 선수 최초 대기록\"",
+      "subtitle": "토트넘 맨시티전서 해트트릭, 팀 4-2 승리 견인",
+      "category": "entertainment",
+      "summary": "손흥민이 유럽 무대 통산 200호골을 달성했다. 맨체스터 시티전에서 해트트릭을 기록하며 팀 승리를 이끌었다.",
+      "content": "손흥민(토트넘)이 22일(한국시간) 영국 런던 토트넘 홋스퍼 스타디움에서 열린 맨체스터 시티와의 경기에서 해트트릭을 달성하며 유럽 통산 200호골의 대기록을 세웠다.<div bis_skin_checked=\"1\">아시아 선수가 유럽 무대에서 200골을 넣은 것은 손흥민이 최초다. 차범근의 유럽 통산 121골 기록을 훨씬 뛰어넘는 성과다.</div><div bis_skin_checked=\"1\">완벽한 해트트릭</div><div bis_skin_checked=\"1\">손흥민은 전반 12분 오른발 슈팅으로 첫 골을 터뜨렸다. 이어 전반 35분에는 왼발로, 후반 23분에는 헤딩으로 득점하며 완벽한 해트트릭을 완성했다.</div><div bis_skin_checked=\"1\">특히 두 번째 골은 30m 독주 후 터뜨린 원더골이었다. 펩 과르디올라 맨시티 감독도 \"막을 수 없는 골이었다\"고 인정했다.</div><div bis_skin_checked=\"1\">손흥민 유럽 통산 200골 내역:</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><ul><li>토트넘: 165골</li><li>함부르크: 20골</li><li>레버쿠젠: 15골</li><li>리그별: EPL 125골, 분데스리가 35골, 챔피언스리그 40골</li></ul></div><div bis_skin_checked=\"1\"><img id=\"img_pahn1p6my\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1755853651303_7a4i729lf.jpg\" style=\"margin: 20px auto 20px 0px; cursor: pointer; float: none; display: block;\" class=\"\"></div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\">\"아직 끝나지 않았다\"</div><div bis_skin_checked=\"1\">경기 후 손흥민은 \"200골은 특별한 순간이지만 아직 끝이 아니다\"며 \"300골을 향해 계속 도전하겠다\"고 포부를 밝혔다.</div><div bis_skin_checked=\"1\">포스테코글루 토트넘 감독은 \"손흥민은 월드클래스를 넘어 레전드 반열에 올랐다\"며 \"팀의 절대적 에이스\"라고 극찬했다.</div><div bis_skin_checked=\"1\">이적료 1억 파운드 제안 쇄도</div><div bis_skin_checked=\"1\">손흥민의 활약에 빅클럽들의 러브콜이 쏟아지고 있다. 레알 마드리드와 바이에른 뮌헨이 1억 파운드(약 1700억원)의 이적료를 제시했다는 보도가 나왔다.</div><div bis_skin_checked=\"1\">하지만 토트넘은 \"손흥민은 비매품\"이라는 입장을 고수하고 있다. 손흥민도 \"토트넘에서 은퇴하고 싶다\"고 충성심을 보였다.</div><div bis_skin_checked=\"1\">한편, 이날 승리로 토트넘은 리그 3위로 올라섰다. 손흥민은 16골로 득점 선두를 달리고 있다.</div>",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [
+        "손흥민",
+        "토트넘",
+        "EPL",
+        "200골",
+        "해트트릭"
+      ],
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-22T09:07:30.865Z",
+        "updatedAt": "2025-08-22T09:07:33.496Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1755852893155_5lqvnc8jh",
       "title": "국회, 2025년도 예산안 본회의 통과... 총 679조원 규모",
       "subtitle": "여야 합의로 법정시한 내 처리, 민생 예산 대폭 증액",
@@ -96,6 +122,6 @@
       }
     }
   ],
-  "count": 4,
-  "lastUpdated": "2025-08-22T08:55:38.843Z"
+  "count": 5,
+  "lastUpdated": "2025-08-22T09:07:40.643Z"
 }
