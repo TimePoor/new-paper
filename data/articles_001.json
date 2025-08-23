@@ -3,6 +3,31 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1755959625756_natw2c7h0",
+      "title": "샘플기사입니다",
+      "subtitle": "",
+      "category": "society",
+      "summary": "테스트1234",
+      "content": "테스트1234",
+      "author": {
+        "name": "김민수 기자",
+        "email": ""
+      },
+      "tags": [
+        "한국은행",
+        "기준금리",
+        "통화정책",
+        "물가"
+      ],
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-23T14:33:45.756Z",
+        "updatedAt": "2025-08-23T14:33:47.237Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1755930742406_bu6au1gj8",
       "title": " 민선 8기 3주년 맞아 호원권역 방문 -  의정부시, 호원권역 문화‧생태‧미래 거점으로 도약 ",
       "subtitle": "",
@@ -45,6 +70,6 @@
       }
     }
   ],
-  "count": 2,
-  "lastUpdated": "2025-08-23T13:57:58.682Z"
+  "count": 3,
+  "lastUpdated": "2025-08-23T14:34:46.148Z"
 }
