@@ -100,28 +100,8 @@
         "updatedAt": "2025-08-22T08:36:43.444Z",
         "views": 0
       }
-    },
-    {
-      "id": "article_1755848961585_67kv3t6vl",
-      "title": "샘플",
-      "subtitle": "",
-      "category": "politics",
-      "summary": "샘플",
-      "content": "샘플",
-      "author": {
-        "name": "=",
-        "email": ""
-      },
-      "tags": [],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-22T07:49:00.000Z",
-        "updatedAt": "2025-08-22T07:52:57.049Z",
-        "views": 0
-      }
     }
   ],
-  "count": 5,
-  "lastUpdated": "2025-08-23T02:45:33.007Z"
+  "count": 4,
+  "lastUpdated": "2025-08-23T04:47:18.282Z"
 }
