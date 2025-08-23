@@ -1,9 +1,17 @@
 {
   "version": "3.0",
-  "lastUpdated": "2025-08-22T09:26:48.042Z",
+  "lastUpdated": "2025-08-23T04:46:17.476Z",
   "files": [
     "articles_001.json"
   ],
-  "totalArticles": 6,
-  "structure": "split_100"
+  "totalArticles": 5,
+  "structure": "split_100",
+  "fileDetails": [
+    {
+      "name": "articles_001.json",
+      "count": 5,
+      "lastUpdated": "2025-08-23T02:45:33.007Z"
+    }
+  ],
+  "lastTrigger": "manual-recalculate"
 }
