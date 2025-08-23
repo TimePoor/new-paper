@@ -102,26 +102,6 @@
       }
     },
     {
-      "id": "article_1755849792841_de568j0s7",
-      "title": "샘플2",
-      "subtitle": "",
-      "category": "economy",
-      "summary": "",
-      "content": "샘플2",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2029-11-22T08:07:00.000Z",
-        "updatedAt": "2025-08-22T08:14:45.241Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1755848961585_67kv3t6vl",
       "title": "샘플",
       "subtitle": "",
@@ -142,6 +122,6 @@
       }
     }
   ],
-  "count": 6,
-  "lastUpdated": "2025-08-22T09:26:23.843Z"
+  "count": 5,
+  "lastUpdated": "2025-08-23T02:45:33.007Z"
 }
