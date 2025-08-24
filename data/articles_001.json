@@ -67,26 +67,6 @@
       }
     },
     {
-      "id": "article_1756021431948_r58m1uvyx",
-      "title": "샘플구구",
-      "subtitle": "샘플구구",
-      "category": "uijeongbu",
-      "summary": "샘플구구",
-      "content": "샘플구구",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T07:43:51.948Z",
-        "updatedAt": "2025-08-24T07:43:50.579Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756020102548_050mal3yk",
       "title": "1414",
       "subtitle": "1444",
@@ -131,6 +111,6 @@
       }
     }
   ],
-  "count": 6,
-  "lastUpdated": "2025-08-24T23:20:57.781Z"
+  "count": 5,
+  "lastUpdated": "2025-08-24T23:21:17.686Z"
 }
