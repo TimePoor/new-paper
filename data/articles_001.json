@@ -87,26 +87,6 @@
       }
     },
     {
-      "id": "article_1756020761678_fly7gmu6d",
-      "title": "4124124",
-      "subtitle": "124124124",
-      "category": "uijeongbu",
-      "summary": "asvsavsd",
-      "content": "1vdfva",
-      "author": {
-        "name": "편집부",
-        "email": "124124124@142141.com"
-      },
-      "tags": [],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T07:32:41.678Z",
-        "updatedAt": "2025-08-24T07:32:40.891Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756020102548_050mal3yk",
       "title": "1414",
       "subtitle": "1444",
@@ -151,6 +131,6 @@
       }
     }
   ],
-  "count": 7,
-  "lastUpdated": "2025-08-24T23:20:39.983Z"
+  "count": 6,
+  "lastUpdated": "2025-08-24T23:20:57.781Z"
 }
