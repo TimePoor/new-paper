@@ -45,28 +45,6 @@
       }
     },
     {
-      "id": "article_1756037818912_nrn2on921",
-      "title": "sdfasfd",
-      "subtitle": "",
-      "category": "gyeonggi",
-      "summary": "sdfasfd",
-      "content": "sdfasfd",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [
-        "sdfasfd"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T12:16:58.912Z",
-        "updatedAt": "2025-08-24T12:16:59.195Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756037552229_r2ckqzhpo",
       "title": "샘플2",
       "subtitle": "샘플2",
@@ -242,6 +220,6 @@
       }
     }
   ],
-  "count": 11,
-  "lastUpdated": "2025-08-24T23:19:45.661Z"
+  "count": 10,
+  "lastUpdated": "2025-08-24T23:20:00.124Z"
 }
