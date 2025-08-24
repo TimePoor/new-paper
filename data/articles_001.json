@@ -3,27 +3,6 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
-      "id": "article_1755854744760_qzd497o4j",
-      "title": "한국은행, 기준금리 0.25%p 인상...물가 안정화 총력",
-      "subtitle": "",
-      "category": "economy",
-      "summary": "국은행이 기준금리를 0.25%p 인상하며 물가 안정화에 나섰다. 시장에서는 동결을 예상했으나 최근 물가 상승세를 고려한 선제적 대응으로 분석된다.",
-      "content": "한국은행 금융통화위원회는 27일 기준금리를 연 3.25%에서 3.50%로 0.25%포인트 인상했다고 발표했다. 이는 지난 3개월간 이어진 금리 동결을 깨고 단행한 조치로, 시장 예상을 벗어난 결정이다.<div bis_skin_checked=\"1\"><table style=\"margin-top: 20px; margin-bottom: 20px;\" class=\"article-table default-table\"><thead><tr><th style=\"border: 1px solid rgb(222, 226, 230); padding: 12px; background: rgb(248, 249, 250);\">헤더 1</th><th style=\"border: 1px solid rgb(222, 226, 230); padding: 12px; background: rgb(248, 249, 250);\">헤더 2</th><th style=\"border: 1px solid rgb(222, 226, 230); padding: 12px; background: rgb(248, 249, 250);\">헤더 3</th></tr></thead><tbody><tr><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 4</td><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 5</td><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 6</td></tr><tr><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 7</td><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 8</td><td style=\"border: 1px solid #dee2e6; padding: 12px;\">내용 9</td></tr></tbody></table><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\">이주열 한은 총재는 \"최근 물가 상승 압력이 지속되고 있어 선제적 대응이 필요하다고 판단했다\"며 \"향후 물가 동향을 면밀히 관찰하며 통화정책을 운영하겠다\"고 밝혔다.</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\">금융시장에서는 이번 금리 인상이 대출금리 상승으로 이어져 가계 부담이 늘어날 것으로 우려하고 있다.</div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><iframe id=\"youtube_qfb2drr6a\" class=\"youtube-embed\" style=\"display: block; width: 480px; height: 270px; margin: 20px auto 20px 0px; cursor: pointer; float: none;\" src=\"https://www.youtube-nocookie.com/embed/mFJf3fPBi2I?rel=0&amp;modestbranding=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" loading=\"lazy\"></iframe></div></div>",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1756073903746_6jo5ze7xl.jpg",
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-22T09:25:00.000Z",
-        "updatedAt": "2025-08-24T22:18:28.851Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1755930742406_bu6au1gj8",
       "title": " 민선 8기 3주년 맞아 호원권역 방문 -  의정부시, 호원권역 문화‧생태‧미래 거점으로 도약 ",
       "subtitle": "",
@@ -46,6 +25,6 @@
       }
     }
   ],
-  "count": 2,
-  "lastUpdated": "2025-08-24T23:22:19.682Z"
+  "count": 1,
+  "lastUpdated": "2025-08-24T23:22:35.781Z"
 }
