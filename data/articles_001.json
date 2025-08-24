@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756068434011_9e9ocnsr2",
+      "title": "썸네일테스트2",
+      "subtitle": "썸네일테스트2",
+      "category": "society",
+      "summary": "썸네일테스트2",
+      "content": "썸네일테스트2<div bis_skin_checked=\"1\"><img id=\"img_iso5h8s6c\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1756069214611_et7gavrvl.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></div>",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-24T20:47:00.000Z",
+        "updatedAt": "2025-08-24T21:05:08.853Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756069135874_iq30z9yss",
       "title": "썸넬테스트3",
       "subtitle": "",
@@ -241,6 +262,6 @@
       }
     }
   ],
-  "count": 11,
-  "lastUpdated": "2025-08-24T21:05:16.618Z"
+  "count": 12,
+  "lastUpdated": "2025-08-24T21:05:38.718Z"
 }
