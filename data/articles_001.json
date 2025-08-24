@@ -24,28 +24,6 @@
       }
     },
     {
-      "id": "article_1756037430160_iu8uncz8o",
-      "title": "발행테스트",
-      "subtitle": "발행테스트",
-      "category": "food",
-      "summary": "발행테스트",
-      "content": "발행테스트",
-      "author": {
-        "name": "발행테스트",
-        "email": ""
-      },
-      "tags": [
-        "발행테스트"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T12:10:30.160Z",
-        "updatedAt": "2025-08-24T12:10:32.678Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756020102548_050mal3yk",
       "title": "1414",
       "subtitle": "1444",
@@ -90,6 +68,6 @@
       }
     }
   ],
-  "count": 4,
-  "lastUpdated": "2025-08-24T23:21:35.087Z"
+  "count": 3,
+  "lastUpdated": "2025-08-24T23:22:00.882Z"
 }
