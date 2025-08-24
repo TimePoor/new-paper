@@ -67,28 +67,6 @@
       }
     },
     {
-      "id": "article_1756033981547_qo59mxhwa",
-      "title": "TTEST",
-      "subtitle": "TTEST",
-      "category": "opinion",
-      "summary": "TTEST",
-      "content": "TTESTTTESTTTESTTTESTTTEST",
-      "author": {
-        "name": "편집부",
-        "email": "TTEST@TTEST.TTEST"
-      },
-      "tags": [
-        "TTEST"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T11:13:01.547Z",
-        "updatedAt": "2025-08-24T11:13:03.844Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756021431948_r58m1uvyx",
       "title": "샘플구구",
       "subtitle": "샘플구구",
@@ -198,6 +176,6 @@
       }
     }
   ],
-  "count": 9,
-  "lastUpdated": "2025-08-24T23:20:11.932Z"
+  "count": 8,
+  "lastUpdated": "2025-08-24T23:20:26.901Z"
 }
