@@ -153,28 +153,6 @@
       }
     },
     {
-      "id": "article_1756019825722_71r6h480g",
-      "title": "샘샘플",
-      "subtitle": "",
-      "category": "politics",
-      "summary": "샘샘플",
-      "content": "샘샘플",
-      "author": {
-        "name": "샘샘플",
-        "email": "afasf@test.com"
-      },
-      "tags": [
-        "샘샘플"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-09-06T12:16:00.000Z",
-        "updatedAt": "2025-08-24T07:17:06.600Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1755959625756_natw2c7h0",
       "title": "샘플기사입니다",
       "subtitle": "",
@@ -242,6 +220,6 @@
       }
     }
   ],
-  "count": 11,
-  "lastUpdated": "2025-08-24T12:17:09.151Z"
+  "count": 10,
+  "lastUpdated": "2025-08-24T12:40:16.583Z"
 }
