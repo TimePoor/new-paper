@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756067907216_7s5u3er0c",
+      "title": "썸네일테스트",
+      "subtitle": "썸네일테스트",
+      "category": "economy",
+      "summary": "썸네일테스트",
+      "content": "썸네일테스트",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-24T20:38:27.216Z",
+        "updatedAt": "2025-08-24T20:38:28.790Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756037818912_nrn2on921",
       "title": "sdfasfd",
       "subtitle": "",
@@ -220,6 +241,6 @@
       }
     }
   ],
-  "count": 10,
-  "lastUpdated": "2025-08-24T12:40:16.583Z"
+  "count": 11,
+  "lastUpdated": "2025-08-24T20:39:24.152Z"
 }
