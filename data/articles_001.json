@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756068434011_9e9ocnsr2",
+      "title": "썸네일테스트2",
+      "subtitle": "썸네일테스트2",
+      "category": "society",
+      "summary": "썸네일테스트2",
+      "content": "썸네일테스트2",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-24T20:47:14.011Z",
+        "updatedAt": "2025-08-24T20:47:14.014Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756037818912_nrn2on921",
       "title": "sdfasfd",
       "subtitle": "",
@@ -220,6 +241,6 @@
       }
     }
   ],
-  "count": 10,
-  "lastUpdated": "2025-08-24T20:46:09.692Z"
+  "count": 11,
+  "lastUpdated": "2025-08-24T20:47:24.051Z"
 }
