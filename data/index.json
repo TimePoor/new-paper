@@ -1,17 +1,17 @@
 {
   "version": "3.0",
-  "lastUpdated": "2025-08-24T22:20:11.419Z",
+  "lastUpdated": "2025-08-24T23:19:51.982Z",
   "files": [
     "articles_001.json"
   ],
-  "totalArticles": 12,
+  "totalArticles": 11,
   "structure": "split_100",
   "fileDetails": [
     {
       "name": "articles_001.json",
-      "count": 12,
-      "lastUpdated": "2025-08-24T22:19:59.618Z"
+      "count": 11,
+      "lastUpdated": "2025-08-24T23:19:45.661Z"
     }
   ],
-  "lastTrigger": "save-articles_001.json"
+  "lastTrigger": "delete-articles_001.json"
 }
