@@ -24,28 +24,6 @@
       }
     },
     {
-      "id": "article_1756020102548_050mal3yk",
-      "title": "1414",
-      "subtitle": "1444",
-      "category": "food",
-      "summary": "1412414",
-      "content": "141241114141242142412424214",
-      "author": {
-        "name": "414",
-        "email": "41414@414141.com"
-      },
-      "tags": [
-        "12412412412412"
-      ],
-      "metadata": {
-        "status": "published",
-        "featured": true,
-        "publishedAt": "2025-08-24T07:21:42.548Z",
-        "updatedAt": "2025-08-24T07:21:41.233Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1755930742406_bu6au1gj8",
       "title": " 민선 8기 3주년 맞아 호원권역 방문 -  의정부시, 호원권역 문화‧생태‧미래 거점으로 도약 ",
       "subtitle": "",
@@ -68,6 +46,6 @@
       }
     }
   ],
-  "count": 3,
-  "lastUpdated": "2025-08-24T23:22:00.882Z"
+  "count": 2,
+  "lastUpdated": "2025-08-24T23:22:19.682Z"
 }
