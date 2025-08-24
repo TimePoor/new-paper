@@ -24,27 +24,6 @@
       }
     },
     {
-      "id": "article_1756068434011_9e9ocnsr2",
-      "title": "썸네일테스트2",
-      "subtitle": "썸네일테스트2",
-      "category": "society",
-      "summary": "썸네일테스트2",
-      "content": "썸네일테스트2<div bis_skin_checked=\"1\"><img id=\"img_iso5h8s6c\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1756069214611_et7gavrvl.jpg\" style=\"margin: 20px auto; cursor: pointer;\"></div>",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1756070137522_o6qlsaef9.jpg",
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-24T20:47:00.000Z",
-        "updatedAt": "2025-08-24T21:15:40.962Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756037430160_iu8uncz8o",
       "title": "발행테스트",
       "subtitle": "발행테스트",
@@ -111,6 +90,6 @@
       }
     }
   ],
-  "count": 5,
-  "lastUpdated": "2025-08-24T23:21:17.686Z"
+  "count": 4,
+  "lastUpdated": "2025-08-24T23:21:35.087Z"
 }
