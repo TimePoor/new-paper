@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756069135874_iq30z9yss",
+      "title": "썸넬테스트3",
+      "subtitle": "",
+      "category": "uijeongbu",
+      "summary": "썸넬테스트3",
+      "content": "썸넬테스트3",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-24T20:58:55.874Z",
+        "updatedAt": "2025-08-24T20:58:56.327Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756068434011_9e9ocnsr2",
       "title": "썸네일테스트2",
       "subtitle": "썸네일테스트2",
@@ -241,6 +262,6 @@
       }
     }
   ],
-  "count": 11,
-  "lastUpdated": "2025-08-24T20:47:24.051Z"
+  "count": 12,
+  "lastUpdated": "2025-08-24T20:59:06.951Z"
 }
