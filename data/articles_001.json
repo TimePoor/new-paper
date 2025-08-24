@@ -3,6 +3,28 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756037552229_r2ckqzhpo",
+      "title": "샘플2",
+      "subtitle": "샘플2",
+      "category": "society",
+      "summary": "샘플2",
+      "content": "샘플2",
+      "author": {
+        "name": "샘플2",
+        "email": ""
+      },
+      "tags": [
+        "샘플2"
+      ],
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2025-08-24T12:12:32.229Z",
+        "updatedAt": "2025-08-24T12:12:32.537Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756037430160_iu8uncz8o",
       "title": "발행테스트",
       "subtitle": "발행테스트",
@@ -198,6 +220,6 @@
       }
     }
   ],
-  "count": 9,
-  "lastUpdated": "2025-08-24T12:11:37.050Z"
+  "count": 10,
+  "lastUpdated": "2025-08-24T12:12:43.053Z"
 }
