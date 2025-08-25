@@ -24,29 +24,6 @@
       }
     },
     {
-      "id": "article_1756114514152_4teelyzhg",
-      "title": "테스트",
-      "subtitle": "테스트 기사",
-      "category": "food",
-      "summary": "의정부타임스가 이슈인사이드뉴스로 네이밍 체인지",
-      "content": "의정부 타임즈가 네이밍을 변경했다. 변경된 이름은 이슈인사이드뉴스로, 지역 뉴스에 국한되어 있던 의정부타임스를 대한민국 전역의 뉴스를 다루는 대형 언론사로 거듭났다.",
-      "author": {
-        "name": "미노야",
-        "email": ""
-      },
-      "tags": [
-        "의정부 박민호"
-      ],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/1756114519090_9buk74qom.jpg",
-      "metadata": {
-        "status": "published",
-        "featured": true,
-        "publishedAt": "2025-08-25T09:35:14.152Z",
-        "updatedAt": "2025-08-25T09:35:26.448Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1755930742406_bu6au1gj8",
       "title": " 민선 8기 3주년 맞아 호원권역 방문 -  의정부시, 호원권역 문화‧생태‧미래 거점으로 도약 ",
       "subtitle": "",
@@ -69,6 +46,6 @@
       }
     }
   ],
-  "count": 3,
-  "lastUpdated": "2025-08-25T15:45:47.465Z"
+  "count": 2,
+  "lastUpdated": "2025-08-25T15:46:07.021Z"
 }
