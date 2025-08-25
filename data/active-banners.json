@@ -1,16 +1,6 @@
 {
-  "version": "2.1755865082640",
-  "lastUpdated": "2025-08-22T12:18:02.640Z",
-  "count": 1,
-  "banners": [
-    {
-      "id": "banner_1755860056967_2b4vdowgg",
-      "name": "팝업",
-      "position": "popup",
-      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755860055273_rt30qehcl_1755860055274_2bdjg.png",
-      "link": "https://codepedia.kr",
-      "isPopup": true,
-      "popupSettings": {}
-    }
-  ]
+  "version": "2.1756115851596",
+  "lastUpdated": "2025-08-25T09:57:31.595Z",
+  "count": 0,
+  "banners": []
 }
