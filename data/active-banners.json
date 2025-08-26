@@ -1,6 +1,16 @@
 {
-  "version": "2.1756115868450",
-  "lastUpdated": "2025-08-25T09:57:48.450Z",
-  "count": 0,
-  "banners": []
+  "version": "2.1756208734073",
+  "lastUpdated": "2025-08-26T11:45:34.073Z",
+  "count": 1,
+  "banners": [
+    {
+      "id": "banner_1756119401393_vvyrvf0ml",
+      "name": "1234",
+      "position": "popup",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1756119397449_outlx2756_1756119397449_j4nce.png",
+      "link": "",
+      "isPopup": false,
+      "popupSettings": {}
+    }
+  ]
 }
