@@ -3,6 +3,30 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756307425290_hy6yia7bt",
+      "title": "의정부시, 2025년 공약사업 추진상황 보고회 개최",
+      "subtitle": "",
+      "category": "uijeongbu",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1756307213087\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756307209946_hnfnnk9wc.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\">&nbsp;▶사진 설명 1~2번: 김동근 시장이 8월 22일 ‘2025년 공약사업 추진상황 보고회’를 진행하고 있다.</p><p style=\"text-align: center; margin-bottom: 20px;\"><b>의정부시(시장 김동근)는 8월 22일 시청 회룡홀에서 공약사업 담당 부서장 등이 참석한 가운데 ‘2025년 공약사업 추진상황 보고회’를 개최했다.\n</b></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;이번 보고회는 공약사업에 대한 추진 현황을 종합적으로 점검해 공약사업의 완성도를 높이기 위해 마련했다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;2025년 2분기를 기준으로 의정부시 공약사업 추진 현황은 완료 및 이행 후 계속 추진 공약 72건이며, 정상 추진 중인 공약은 51건이다. \n</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;시는 앞으로 부서 간 협업을 강화해 공약을 체계적으로 관리하며, 이행률을 높여 시민과의 신뢰를 더욱 공고히 할 계획이다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;김동근 시장은 “공약은 시민과의 약속이고, 행정 신뢰의 핵심”이라며 “더욱 내실 있는 이행을 통해 시민이 체감할 수 있는 결과를 창출하고 더 나은 의정부시를 만드는 데 최선을 다하겠다”고 말했다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p>",
+      "author": {
+        "name": "박민호 기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시",
+        "2025년 공약사업 추진상황 보고회 개최"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756307209946_hnfnnk9wc.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2025-08-27T15:10:25.290Z",
+        "updatedAt": "2025-08-27T15:10:22.998Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756307006796_3n3t0wuxv",
       "title": "의정부시, 사회복지법인 삼육재단과 지역복지 협력 위한 업무협약",
       "subtitle": "의정부시, 사회복지법인 삼육재단과 지역복지 협력 ",
@@ -71,6 +95,6 @@
       }
     }
   ],
-  "count": 3,
-  "lastUpdated": "2025-08-27T15:04:03.541Z"
+  "count": 4,
+  "lastUpdated": "2025-08-27T15:10:34.941Z"
 }
