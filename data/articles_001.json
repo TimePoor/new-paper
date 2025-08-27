@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756307747223_ktycegzw4",
+      "title": "의정부시, 글로벌 기업 유치 전략 한 단계 높였다",
+      "subtitle": "- 현장 중심 교육으로 투자유치 실무 감각 업그레이드-",
+      "category": "uijeongbu",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1756307624910\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756307622861_i6ws0ld7r.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"><b>의정부시(시장 김동근)는 8월 22일 시청 제2별관 3층 라운지에서 경제일자리국 직원과 기업유치 업무에 관심 있는 직원 등 50여 명을 대상으로 ‘의정부시 투자유치 전략 교육’을 실시했다. \r</b></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;이번 교육은 기업 유치 경쟁이 심화되는 상황에 선제적으로 대응하고, 직원들의 전략적 사고와 실무 역량을 강화하기 위해 마련했다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;강사로는 에어프로덕츠코리아㈜ 최원규 상무이사가 초청됐다. 최 상무는 25년간 경기도청 투자진흥과에서 근무하며 미주‧아주‧구주 팀장을 역임하고, 다수의 글로벌 기업 투자유치를 이끈 전문가다. 그는 풍부한 현장 경험을 바탕으로 ▲투자유치 조직 구성 ▲투자유치 전략 수립 ▲국내외 성공사례 분석 등 실무 중심의 강의를 진행했다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;이번 강의에서는 경기도의 LG필립스 LCD 유치 경험 등 ‘성공 DNA’를 공유하며, 의정부시가 나아갈 방향을 제시했다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;특히 ▲앵커기업을 중심으로 한 클러스터 조성 ▲데이터센터‧바이오 ‧AI 등 신성장 산업 유치 ▲국제 박람회 참가와 해외 네트워크 확충 등 실질적 전략이 소개돼 참석자들의 큰 호응을 얻었다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;김동근 시장은 “지역 발전을 위해 우수 기업 유치는 필수적”이라며 “이번 교육이 직원들의 투자유치 역량 강화로 이어져, 의정부시가 기업하기 좋은 도시로 도약하는 데 든든한 밑거름이 되길 바란다”고 말했다.</p>",
+      "author": {
+        "name": "박민호 기자",
+        "email": ""
+      },
+      "tags": "의정부시, 글로벌기업",
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756307622861_i6ws0ld7r.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2025-08-27T15:15:47.222Z",
+        "updatedAt": "2025-08-27T15:15:44.876Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756307425290_hy6yia7bt",
       "title": "의정부시, 2025년 공약사업 추진상황 보고회 개최",
       "subtitle": "",
@@ -95,6 +116,6 @@
       }
     }
   ],
-  "count": 4,
-  "lastUpdated": "2025-08-27T15:10:34.941Z"
+  "count": 5,
+  "lastUpdated": "2025-08-27T15:15:53.542Z"
 }
