@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756287556658_xf8akk4kb",
+      "title": "걷고, 머물고, 누리는 도시 - 의정부시, 8월 동장단 정책소통 티타임 개최",
+      "subtitle": "걷고, 머물고, 누리는 도시",
+      "category": "uijeongbu",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1756287456770\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756287451496_s3dxtl078.JPG\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><div style=\"text-align: left;\"><b style=\"font-size: 1.05rem;\">&nbsp;걷고, 머물고, 누리는 도시 -</b></div><div style=\"text-align: left;\"><b>의정부시, 8월 동장단 정책소통 티타임 개최</b></div><div style=\"text-align: left;\"><b><br></b></div><div style=\"text-align: left;\"><b>의정부시(시장 김동근)는 8월 27일 시청 회룡홀에서 ‘8월 동장단 정책소통 티타임’을 열고, 각 동의 현안 및 정책 제안 사항에 대해 심도 있게 논의했다. \n</b></div><div style=\"text-align: left;\"><b>&nbsp;회의에는 시장과 부시장, 동장단, 관련 부서장 등 32명이 참석해 분야별로 다양한 정책 제안을 다뤘다. \n</b></div><div style=\"text-align: left;\"><b>&nbsp;구체적으로 ▲안전‧재난예방 분야에서는 의정부2동의 ‘침수대비 공사 효과 및 건의사항’을 비롯한 6건 ▲교통‧편의개선 분야에서는 신곡2동의 ‘공항버스 정류장 환경개선 제안’ 등 3건 ▲공원‧산책로 정비 분야에서는 호원2동의 ‘회룡천 산책길 및 여성안심귀가길 벤치 정비 요청’ 등 4건 ▲주민휴식공간 개선 분야에서는 의정부1동의 ‘중랑천 벽천시설(분수대) 개선’ 등 2건이 논의됐다.\n</b></div><div style=\"text-align: left;\"><b>&nbsp;또한 문화예술과에서 9월 27일부터 28일까지 열리는 ‘제40회 회룡문화제’에 대해 안내하고, 태조‧태종 의정부 행차 재현을 위한 ‘시민원행단’ 모집에 대한 각 동의 적극적인 홍보와 협조를 요청했다.\n</b></div><div style=\"text-align: left;\"><b>&nbsp;이후 ‘이슈‧리뷰’ 코너에서는 지난 집중호우 당시 가평군 및 의정부시에서 5차례 진행된 수해복구 자원봉사 활동 영상 스케치가 상영됐다. 시민과 공무원, 자원봉사자, 군인들의 노력과 연대가 담긴 영상을 통해 위기 상황에서 민‧관‧군이 협력해 재난 상황을 극복할 수 있었던 소중한 경험을 되새겼다.</b><b style=\"font-size: 1.05rem;\">&nbsp;김동근 시장은 “동장단 티타임은 주민 의견을 시정에 빠르게 반영하는 소통의 창구”라며 “앞으로도 각 동 현안을 신속히 해결하고 시민 체감형 정책을 적극 추진해 나가겠다”고 말했다.</b></div><div style=\"text-align: left;\"><b>▶사진 설명 1~2번: 김동근 시장이 8월 27일 ‘동장단 정책소통 티타임’을 진행하고 있다.</b></div>",
+      "author": {
+        "name": "박민호",
+        "email": "minho6857@naver.com"
+      },
+      "tags": [
+        "의정부시 김동근시장"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756287451496_s3dxtl078.JPG",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2025-08-27T09:39:16.658Z",
+        "updatedAt": "2025-08-27T09:39:19.927Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1755930742406_bu6au1gj8",
       "title": " 민선 8기 3주년 맞아 호원권역 방문 -  의정부시, 호원권역 문화‧생태‧미래 거점으로 도약 ",
       "subtitle": "",
@@ -25,6 +48,6 @@
       }
     }
   ],
-  "count": 1,
-  "lastUpdated": "2025-08-25T15:46:17.421Z"
+  "count": 2,
+  "lastUpdated": "2025-08-27T09:39:48.441Z"
 }
