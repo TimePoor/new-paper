@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1756376354154_ljw2x81or",
+      "title": ".의정부시 보건소, ‘C형간염 확진검사비 지원 사업’ 추진",
+      "subtitle": "- 현장시장실 100회 기념 소통 간담회 개최 -",
+      "category": "uijeongbu",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1756376200924\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756376198553_uio2wl56e.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p style=\"text-align: center; margin-bottom: 20px;\"><b>&nbsp;의정부시 보건소는 C형간염 조기진단 활성화를 위해 올해부터 56세 국가건강검진 대상자 ‘C형 간염 확진검사비 지원사업’을 실시한다.\r</b></p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;이번 사업은 국가건강검진에서 C형간염 항체양성 판정을 받은 1969년생 대상자가 확진(RNA)검사를 받을 경우, 최초 1회에 한해 검사 당일에 발생한 진찰료와 확진검사비(본인부담금) 전액을 지원하는 내용이다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;단, 의원 또는 병원급 의료기관에서 C형간염 확진(RNA)검사를 받아야 한다. 상급병원(종합병원)에 방문해 확진검사를 받거나 RNA검사가 아닌 다른 검사를 하는 경우에는 지원을 받을 수 없다.&nbsp;</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;C형간염은 대부분 증상이 없어 발견하기 어렵지만, 감염 초기 적절한 치료를 하지 않으면 만성간염으로 진행돼 간경변증, 간암 등 중증 간질환을 초래할 수 있어 조기발견이 중요하다. 특히 국가건강검진 C형간염 항체검사에서 양성판정을 받은 대상자는 현재 유병 여부 확인을 위해 확진(RNA)검사를 꼭 받아야 한다.\r</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;C형간염 확진검사비 지원 신청은 정부24 누리집의 ‘보조금24’를 통해 온라인으로도 가능하다. 온라인 신청이 어려운 경우, 국가건강검진 결과지 및 진료비상세내역서 등 관련서류를 지참해 보건소 감염병관리과로 직접 방문해 신청하면 된다.&nbsp;</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">&nbsp;신청 기한은 국가검강검진 수검 다음해 3월 31일까지로, 올해 지원대상자(1969년생)는 2026년 3월 31일까지 신청할 수 있다. 기타 문의사항은 보건소 감염병관리과(031-870-6604)에서 안내받을 수 있다.&nbsp;</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p>",
+      "author": {
+        "name": "박민호 기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시보건소"
+      ],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2025-08-28T10:19:14.154Z",
+        "updatedAt": "2025-08-28T10:19:16.798Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756375902377_mnbv2onqf",
       "title": "의정부시, ‘현장시장실 100회’ 시민과 함께한 4년의 기록",
       "subtitle": "- 현장시장실 100회 기념 소통 간담회 개최 -",
@@ -160,6 +183,6 @@
       }
     }
   ],
-  "count": 7,
-  "lastUpdated": "2025-08-28T10:12:33.742Z"
+  "count": 8,
+  "lastUpdated": "2025-08-28T10:19:30.243Z"
 }
