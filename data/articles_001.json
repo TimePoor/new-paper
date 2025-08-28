@@ -3,27 +3,6 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
-      "id": "article_1756379064761_z27o72iqu",
-      "title": "썸네일 등록 테스트",
-      "subtitle": "",
-      "category": "politics",
-      "summary": "",
-      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1756379049715\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756379048288_60kk50kb9.png\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p style=\"text-align: left; margin-bottom: 20px;\">썸네일 테스트</p>",
-      "author": {
-        "name": "편집부",
-        "email": "ujbtimes@naver.com"
-      },
-      "tags": [],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202508/featured/1756379048288_60kk50kb9.png",
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2025-08-28T10:37:00.000Z",
-        "updatedAt": "2025-08-28T11:04:26.285Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1756377426085_d0xqkim9a",
       "title": "박수현, “ 대통령 세종집무실 · 국회 세종의사당 공모 착수 환영”",
       "subtitle": "- 국정위 균형성장위원장으로 활동하며 ‘ 대통령 세종집무실 ’ 명칭 공식화 , 신속추진과제 선정 주도 - 행복청 , 대통령 세종집무실과 국회 세종의사당 마스터플랜 마련 절차 돌입 - 박 의원 , “ 세종이 명실상부한 국가상징공간으로 자리매김 할 수 있도록 지원과 노력 아끼지 않을 것 ”",
@@ -273,6 +252,6 @@
       }
     }
   ],
-  "count": 12,
-  "lastUpdated": "2025-08-28T11:05:27.547Z"
+  "count": 11,
+  "lastUpdated": "2025-08-28T11:10:08.514Z"
 }
