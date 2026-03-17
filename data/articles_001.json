@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1773757070044_nom6vsbmz",
+      "title": "안병용 더불어민주당 의정부시장 예비후보, 새봄맞이 대청소 현장에서 시민들과 인사하며 지지호소",
+      "subtitle": "의정부시장 예비후보 안병용",
+      "category": "uijeongbu",
+      "summary": "안병용 더불어민주당 의정부시장 예비후보, 새봄맞이 대청소 현장에서 시민들과 인사하며 지지호소",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1773758116479\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202603/featured/1773758113870_vd752nbcy.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p style=\"text-align: center; margin-bottom: 20px;\">안병용 더불어민주당 의정부시장 예비후보, 새봄맞이 대청소 현장에서 시민들과 인사하며 지지호소</p><p style=\"text-align: center; margin-bottom: 20px;\">-고산동-의정부1동-출근길 인사-아침 식사-민주당 고문님들 격려방문-민주노총 노조 임원단 방문 \n</p><p style=\"text-align: center; margin-bottom: 20px;\">안병용 더불어민주당 의정부시장 예비후보는 3월 17일 이른 아침 새봄맞이 대청소에 나선 고산동과 의정부1동 시민들과 만나 지지를 호소하는 일정으로 시작해 현장과 캠프를 오가며 선거 운동에 나섰다. \n</p><p style=\"text-align: center; margin-bottom: 20px;\">안 예비후보는 “지역을 깨끗하고 건강하게 가꾸는 일에 주민 모두가 참여해 변화를 만드는 일은 뜻깊은 일”이라며 “시민 여러분과 더 가까이에서 소통하며 더 나은 의정부를 위해 최선을 다하겠다”고 밝혔다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">그리고 6·3지방선거 도·시의원 예비후보자들과 함께 의정부예술의전당 삼거리에서 출근길 시민들에게 인사한 안 예비후보는 “도·시의원 예비후보자님들과 함께 의정부가 더욱 따뜻하고 살기 좋은 도시가 되도록 하겠다”고 말했다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">이어 안 예비후보는 출근 인사를 함께 한 도·시의원 예비후보자들과 함께 아침 식사를 하며 서로 지역을 위한 마음을 나누며 앞으로 주민들과 소통하면서 함께 변화를 이끌어나갈 것을 다짐하기도 했다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">캠프로 돌아온 안 예비후보는 “평생을 민주당을 위해 기도하고 애쓰신 고문님들의 격려 방문에 감사드린다”며 “고문님들의 기도와 땀 흘림이 있어 오늘날 민주당과 저 안병용이 있음을 잘 알 고 있으며 최선을 다해 꼭 승리로 보답하겠다”고 밝혔다.\n</p><p style=\"text-align: center; margin-bottom: 20px;\">또한, 의정부시도시공사 민노총 노조 위원장과 노조 임원들과 캠프에서 만나 “새벽부터 애쓰시는 손길이 정말 장 하다”며 “복지와 처우 개선을 바라는 노조의 요구를 꼭 살펴보겠다”고 약속했다.\n</p><p style=\"text-align: left; margin-bottom: 20px;\"><br></p>",
+      "author": {
+        "name": "박민호 기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "안병용 의정부시장예비후보"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202603/featured/1773758113870_vd752nbcy.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-03-17T14:14:00.000Z",
+        "updatedAt": "2026-03-17T14:35:30.552Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1756376686882_2jgjojntb",
       "title": "송산3동, 집중호우 뒤 하천 정화로 쾌적한 환경 조성",
       "subtitle": "",
@@ -252,6 +275,6 @@
       }
     }
   ],
-  "count": 11,
-  "lastUpdated": "2026-03-17T14:35:48.285Z"
+  "count": 12,
+  "lastUpdated": "2026-03-17T14:36:31.685Z"
 }
