@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "lastUpdated": "2025-11-06T08:42:47.902Z",
+  "lastUpdated": "2026-03-17T14:27:53.084Z",
   "files": [
     "articles_001.json"
   ],
@@ -10,8 +10,8 @@
     {
       "name": "articles_001.json",
       "count": 11,
-      "lastUpdated": "2025-11-06T08:42:15.700Z"
+      "lastUpdated": "2026-03-17T14:26:47.785Z"
     }
   ],
-  "lastTrigger": "save-articles_001.json"
+  "lastTrigger": "delete-articles_001.json"
 }
