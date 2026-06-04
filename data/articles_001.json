@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1780564931265_64qhef5gr",
+      "title": "김원기, 의정부시장 당선 민주당 시정 탈환",
+      "subtitle": "김원기, 의정부시장 당선…4년 만에 민주당 시정 탈환",
+      "category": "uijeongbu",
+      "summary": "김원기, 의정부시장 당선…4년 만에 민주당 시정 탈환\n",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1780564874952\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780564870220_hvoe5nk9l.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><div>김원기, 의정부시장 당선…4년 만에 민주당 시정 탈환</div><h1><br></h1><div>[이슈 인사이드 뉴스 박민호 기자]제9회 전국동시지방선거에서 더불어민주당 김원기 후보가 의정부시장에 당선되며 4년 만에 민주당이 의정부 시정을 다시 맡게 됐다.</div><div><br></div><div>중앙선거관리위원회 개표 결과에 따르면 김원기 당선인은 최종 개표에서 11만3845표(50.80%)를 획득해 11만253표(49.19%)를 얻은 국민의힘 김동근 후보를 근소한 차이로 제치고 승리를 거머쥐었다.</div><div><br></div><div>이번 선거는 지난 지방선거에서 맞붙었던 두 후보의 재대결로 관심을 모았다. 당시 패배를 경험했던 김 당선인은 이후에도 지역 현안 해결과 시민 소통 활동을 꾸준히 이어오며 재도전의 기반을 다져왔다.</div><div><br></div><div>3선 경기도의원과 경기도의회 부의장을 지낸 김 당선인은 선거 기간 동안 상대 후보에 대한 공세보다 정책 중심의 선거운동을 펼치며 시민들의 선택을 이끌어냈다는 평가를 받고 있다.</div><div><br></div><div>특히 민주당 경선 과정에서는 여러 유력 인사들이 출마하며 치열한 경쟁이 벌어졌지만, 김 당선인은 최종 후보로 선출된 뒤 당내 통합에 집중했다. 경선 경쟁자들과 협력 체계를 구축하며 이른바 ‘원팀 선거’를 이끌어냈고, 이를 바탕으로 본선 승리까지 연결시켰다.</div><div><br></div><div>김 당선인은 선거 과정에서 지역경제 활성화와 미래 성장 기반 마련을 핵심 과제로 제시했다. 주요 공약으로는 지역화폐 확대 지급, 의정부형 공공배달앱 구축, 시민 참여형 정책 플랫폼 운영, 반환공여지 개발을 통한 미래산업 육성, 동부권 교통 인프라 확충 등이 포함됐다.</div><div><br></div><div>또한 경기지사 당선인과 협력을 통해 지하철 8호선 의정부 연장, SRT 의정부역 연장, 반환공여지 활용을 통한 일자리 창출 사업 등을 적극 추진하겠다는 계획도 밝혔다.</div><div><br></div><div>김원기 당선인은 선거 기간 동안 “시민과 함께 호흡하는 시장이 되겠다”고 강조해 왔다. 앞으로 민선 시정 운영 과정에서 어떤 변화와 성과를 만들어낼지 시민들의 관심이 모아지고 있다.</div>",
+      "author": {
+        "name": "박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시장 김원기 더불어민주당"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780564870220_hvoe5nk9l.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-06-04T09:19:00.000Z",
+        "updatedAt": "2026-06-04T09:22:18.316Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1773825550013_xxnbldkr5",
       "title": "의정부시의회, 제342회 임시회 폐회",
       "subtitle": "의정부시의회",
@@ -321,6 +344,6 @@
       }
     }
   ],
-  "count": 14,
-  "lastUpdated": "2026-03-18T09:19:34.357Z"
+  "count": 15,
+  "lastUpdated": "2026-06-04T09:24:09.350Z"
 }
