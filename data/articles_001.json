@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1780754403629_1g9fgbxub",
+      "title": "의정부시.제71회 현충일 추념식 개최",
+      "subtitle": "",
+      "category": "uijeongbu",
+      "summary": "의정부시.제71회 현충일 추념식 개최\n",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1780754242724\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780754239356_oh1vvil1c.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1780753969143\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780753962046_zoow7iqkv.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><b>의정부시.제71회 현충일 추념식 개최</b><div><b><br></b></div><div><b>[박민호 기자]의정부시는 6월 6일 자일동 현충탑에서&nbsp;</b><b>'제71회&nbsp;</b><b>현충일 추념식' 을엄숙히 거행했다.</b></div><div><b><br></b></div><div><b>이번 추념식은 국가수호를 위해 헌신한 순국선열과 호국영령의 숭고 한 희생을 기리고자 마련됐으며, 600여 명의 시민이 함께했다.</b></div><div><b><br></b></div><div><b>추념식은 이날 오전 10시 추념 사이렌을 시작으로 묵념, 헌화 및 분 향, 추념사, 추도사, 추모 헌시 낭독, 현충일 노래 제창 순으로 진행됐 으며, 순국선열의 넋을 기리는 차분하고 경건한 분위기 속에서 엄숙 하게 치러졌다</b></div><div><b><br></b></div><div><b>이번 추념식은 기존 현충탑 광장이 '의정부시 메모리얼파크' 로 리 모델링된 후 처음 개최된 행사로, 참석자들은 새롭게 단장한 현충탑 이 보훈의 의미를 더욱 친숙하게 느끼게 해 준다는 긍정적인 반응을 보였다.</b></div><div><b><br></b></div><div><b>김동근 시장은 추념사에서 \"최고의 보훈은 잊지 않는 것\" 이라며 \"국가를 위해 헌신한 분들의 희생을 끝까지 기억하고, 그에 걸맞은 예우와 존경을 다하겠다\" 고 말했다</b></div>",
+      "author": {
+        "name": "박민호 기자",
+        "email": ""
+      },
+      "tags": "현충일 의정부시 현충탑",
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-06-06T14:00:03.628Z",
+        "updatedAt": "2026-06-06T14:00:09.285Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1780565989996_ltlufyzdu",
       "title": "추미애, 경기도지사 당선 확정",
       "subtitle": "추미애, 경기도지사 당선 확정…헌정사 첫 여성 광역단체장 탄생",
@@ -367,6 +388,6 @@
       }
     }
   ],
-  "count": 16,
-  "lastUpdated": "2026-06-04T09:41:09.860Z"
+  "count": 17,
+  "lastUpdated": "2026-06-06T14:01:33.899Z"
 }
