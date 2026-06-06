@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1780754852689_jm43hwesv",
+      "title": "의정부시의회,제71회 현충일  추념식 참석",
+      "subtitle": "",
+      "category": "uijeongbu",
+      "summary": "의정부시의회,제71회 현충일 \n추념식 참석\n",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1780754818017\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780754816005_hzxz1wjkj.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><div style=\"text-align: center;\"><b>의정부시의회,제71회 현충일&nbsp;</b></div><div><div style=\"text-align: center;\"><b>추념식 참석</b></div><div><div style=\"text-align: center;\"><br></div><div>의정부시의회(의장 김연균)는 6월 6일 제71회 현충일을 맞아 자일동 에 위치한 현총탑 광장에서 열린 추념식에 참석했다.</div><div><br></div><div>이날 행사에는 의정부시의회 의장을 비롯한 시의원들과 의정부시장 국회의원, 보훈단체장, 국가유공자 및 유족, 시민 등 700여명이 참석한 가운데 국가의 독립과 자유 ㆍ평화를 위해 목숨을 바친 영웅들의 고귀 한 정신을 기리기 위해 마련되었다.</div><div><br></div><div>추념식은 오전 10시에 울린 전국 묵념사이렌 소리에 맞춰 순국선열 과 호국영령에 대한 묵념. 헌화. 분향. 추념사. 추도사, 추모헌시 낭 독, 현충일 노래 제창 순으로 경건하게 진행됐다.</div><div><br></div><div>시의원들은 국가와 민족을 위해 젊음과 때로는 목숨까지 기꺼이 던지신 순국선열과 호국영령께 감사와 존경의 마음을 가졌으며, 시민 들과 함께 나라 사랑의 의미를 다시 한 번 마음에 새겼다.</div><div><br></div><div>김연균 의장은 \"국가의 독립과 자유ㆍ평화를 위해 희생한 영웅들의 헌신 덕분에 오늘날의 번영과 안정을 누릴 수 있게 되었다\" 면서 \"그들의 희생이 헛되지 않도록 더 나은 지역사회를 만들기 위해 최 선을 다하겠다\" 고 말했다.</div></div></div>",
+      "author": {
+        "name": "박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시의회 현충일 현충탑"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1780754816005_hzxz1wjkj.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-06-06T14:05:00.000Z",
+        "updatedAt": "2026-06-06T14:07:34.788Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1780754403629_1g9fgbxub",
       "title": "의정부시.제71회 현충일 추념식 개최",
       "subtitle": "",
@@ -388,6 +411,6 @@
       }
     }
   ],
-  "count": 17,
-  "lastUpdated": "2026-06-06T14:01:33.899Z"
+  "count": 18,
+  "lastUpdated": "2026-06-06T14:07:57.799Z"
 }
