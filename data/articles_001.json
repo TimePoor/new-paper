@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1782480392295_mss3wa0ow",
+      "title": "김원기 의정부시장, 7월 1일 민선 9기 출범… \"시민과 함께 새로운 의정부 시대 연다\"",
+      "subtitle": "김원기 의정부시장, 임기 카운트다운",
+      "category": "uijeongbu",
+      "summary": "김원기 의정부시장, 7월 1일 민선 9기 출범… \"시민과 함께 새로운 의정부 시대 연다\"",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1782480082044\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1782480078496_aa7c8c0sz.jpg\" alt=\"김원기 의정부시장 당선인\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer; width: 401px;\"></p><b>김원기 의정부시장, 7월 1일 민선 9기 출범… \"시민과 함께 새로운 의정부 시대 연다\"</b><div><br></div><div>의정부 = 김원기 의정부시장이 오는 7월 1일 공식 취임과 함께 민선 9기의 새로운 출발을 알린다.</div><div><br></div><div>의정부시는 오는 7월 1일 오전 9시 30분, 의정부예술의전당에서 김원기 시장의 민선 9기 출범식을 개최하고, 47만 의정부시민과 함께 새로운 시정의 비전과 운영 방향을 공유할 예정이다.</div><div><br></div><div>이번 출범식은 민선 9기의 시작을 시민들과 함께 선언하는 자리로, 시민 통합과 미래 비전을 제시하는 의미 있는 행사로 마련된다.</div><div><br></div><div>김 시장은 취임에 앞서 청와대 방문을 비롯한 다양한 대외 일정을 소화하며 국비 확보와 중앙정부 협력체계 구축에 집중해 왔다. 또한 지역 현안을 직접 점검하며 민선 9기 시정 운영을 위한 기반 마련에 힘써 왔다는 평가를 받고 있다.</div><div><br></div><div>민선 9기 시정의 핵심 방향은 시민이 주인이 되는 시민주권 도시 구현, 건전한 재정 운영과 국비 확보, 민생경제 회복 및 양질의 일자리 창출, 교통 인프라 확충과 생활밀착형 복지 강화 등이다.</div><div><br></div><div>특히 시민 참여를 확대하는 현장 중심 행정을 통해 시민의 목소리를 시정에 적극 반영하고, 어려움을 겪는 소상공인과 골목상권 회복, 청년과 중장년층을 위한 일자리 확대에도 행정 역량을 집중할 계획이다.</div><div><br></div><div>아울러 교통환경 개선과 촘촘한 복지정책을 추진해 시민 누구도 소외되지 않는 도시를 만들어 나간다는 방침이다.</div><div><br></div><div>김원기 시장은 \"선거는 끝났고 이제는 시민 통합의 시간\"이라며 \"저를 지지해 주신 시민은 물론 그렇지 않은 시민들의 의견까지 폭넓게 경청하며 오직 의정부 발전과 시민 행복만을 바라보고 시정을 운영하겠다\"고 밝혔다.</div><div><br></div><div>한편 민선 9기 출범식은 새로운 시정의 비전과 정책 방향을 시민들에게 공유하는 자리로 진행될 예정이며, 김원기 시장은 이날을 시작으로 본격적인 민선 9기 시정 운영에 돌입한다.</div>",
+      "author": {
+        "name": "박민호,기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "김원기 의정부시장 김원기시장"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1782480078496_aa7c8c0sz.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-06-26T13:22:00.000Z",
+        "updatedAt": "2026-06-26T13:26:40.539Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1780754852689_jm43hwesv",
       "title": "의정부시의회,제71회 현충일  추념식 참석",
       "subtitle": "",
@@ -390,6 +413,6 @@
       }
     }
   ],
-  "count": 17,
-  "lastUpdated": "2026-06-06T14:10:38.420Z"
+  "count": 18,
+  "lastUpdated": "2026-06-26T13:28:25.674Z"
 }
