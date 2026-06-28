@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1782656559387_jpjkkijgz",
+      "title": "(사)한국연예예술인총연합회  연예협회, 카네이션요양원서 따뜻한 경로잔치 개최",
+      "subtitle": "(사)한국연예예술인총연합회  연예협회, 카네이션요양원서 따뜻한 경로잔치 개최",
+      "category": "uijeongbu",
+      "summary": "(사)한국연예예술인총연합회 \n연예협회, 카네이션요양원서 따뜻한 경로잔치 개최\n",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1782656426066\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1782656420178_k6c88eiij.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><div style=\"text-align: center;\"><b>(사)한국연예예술인총연합회&nbsp;</b></div><div><div style=\"text-align: center;\"><b>연예협회, 카네이션요양원서 따뜻한 경로잔치 개최</b></div><div><b><br></b></div><div><b>[</b>이슈인사이드뉴스]박민호 기자</div><div><br></div><div>(사)한국연예예술인총연합회 연예협회는 지난 22일 의정부시 녹양동에 위치한 카네이션요양원을 찾아 입소 어르신과 직원들을 위한 뜻깊은 경로잔치를 개최했다.</div><div><br></div><div>이날 행사에는 약 20여 명의 어르신과 요양원 직원들이 함께한 가운데, 연예협회 소속 가수들과 임원진이 재능기부 공연을 펼치며 흥겨운 무대를 선사했다. 공연 내내 어르신들은 노래를 따라 부르고 박수를 보내는 등 즐거운 시간을 보냈다.</div><div><br></div><div>특히 이번 행사가 열린 카네이션요양원에는 연예협회 박영길 회장의 모친이 입원 중인 것으로 알려졌다. 박 회장의 모친은 낙상으로 다리 골절상을 입어 수술을 받은 뒤 회복과 재활 치료를 위해 요양원에서 생활하고 있다.</div><div><br></div><div>평소 효심이 깊은 것으로 알려진 박영길 회장은 어머니를 향한 사랑뿐 아니라 지역 어르신들을 공경하는 마음으로 꾸준한 봉사활동을 이어오고 있다. 그는 평소에도 사비를 들여 지역 어르신들을 위한 경로잔치를 정기적으로 개최하는 등 나눔과 효 실천에 앞장서고 있다.</div><div><br></div><div>이날 행사에는 연예협회 사무국장을 비롯해 다양한 분야에서 활동하는 가수들이 함께 참여해 흥겨운 공연을 선보였으며, 어르신들과 함께 노래를 부르고 소통하며 큰 호응을 얻었다.</div><div><br></div><div>카네이션요양원 관계자는 \"개원 이후 이렇게 많은 공연진이 함께하는 대규모 경로잔치는 처음\"이라며 \"어르신들에게 잊지 못할 추억을 선물해 주신 박영길 회장님과 한국연예예술인총연합회 연예협회 관계자 여러분께 깊이 감사드린다\"고 말했다.</div><div><br></div><div>한편 한국연예예술인총연합회 연예협회는 지역사회 문화예술 발전과 함께 경로효친 실천, 소외계층 지원, 재능기부 공연 등 다양한 사회공헌 활동을 지속적으로 펼치며 따뜻한 나눔 문화 확산에 기여하고 있다.</div></div>",
+      "author": {
+        "name": "박민호 기자",
+        "email": "ujbtimes@navee.com"
+      },
+      "tags": [
+        "의정부연예협회 박영길회장 카네이션요양원 경로잔치"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202606/featured/1782656420178_k6c88eiij.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-06-21T17:00:00.000Z",
+        "updatedAt": "2026-06-28T14:22:45.705Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1782547810590_clxxfcpsr",
       "title": "우리지역의 착한가게",
       "subtitle": "착한가게 달코소미",
@@ -541,6 +564,6 @@
       }
     }
   ],
-  "count": 24,
-  "lastUpdated": "2026-06-27T08:18:13.293Z"
+  "count": 25,
+  "lastUpdated": "2026-06-28T14:24:02.212Z"
 }
