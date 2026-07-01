@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1782905735689_wk25kd46u",
+      "title": "제10대 의정부시의회, 현충탑 참배로 첫 의정활동 시작",
+      "subtitle": "제10대 의정부시의회, 현충탑 참배로 첫 의정활동 시작",
+      "category": "uijeongbu",
+      "summary": "제10대 의정부시의회, 현충탑 참배로 첫 의정활동 시작",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1782905698182\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202607/featured/1782905693586_gdjm7y7hv.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer; width: 1626px;\"></p><div style=\"text-align: center;\"><b style=\"font-size: 1.05rem;\">제10대 의정부시의회, 현충탑 참배로 첫 의정활동 시작</b></div><div><b>이슈인사이드뉴스=박민호 기자 </b>의정부시의회는 7월 1일, 자일동에 위치한 현충탑을 찾아 참배하는 것으로 제10대 의정부시의회 공식적인 의정활동의 첫발을 내딛었다.\n</div><div>이날 참배에는 시의원 13명과 의회사무국 관계자 등이 참석했다.&nbsp;</div><div><span style=\"font-size: 1.05rem;\">의원들은 현충탑에 헌화와 분향을 하며 국가와 민족을 위해 희생하신 순국선열의 넋을 기리고, 호국영령의 뜻을 이어받아 민생을 챙기는 바른 의정을 펼치겠다고 굳게 다짐하는 시간을 가졌다.</span></div><div><br></div><div>제10대 의정부시의회는 2026년도 행정사무감사, 2025회계연도 결산 및 2027년도 예산안 등의 주요현안 처리를 앞두고 있다.\n</div><div>한편, 참배를 마친 제10대 의정부시의회 의원들은 곧이어 개회될 제345회 임시회에 참석하기 위해 본회의장으로 이동해 전반기 원구성을 위한 선거를 실시하고 본격적인 의정활동에 돌입할 예정이다.</div>",
+      "author": {
+        "name": "이슈인사이드뉴스 박민호 기자",
+        "email": ""
+      },
+      "tags": [
+        "제10대의정부시의회 의정부시의회 이슈인사이드뉴스"
+      ],
+      "featuredImage": "",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-07-01T08:29:00.000Z",
+        "updatedAt": "2026-07-01T11:35:37.310Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1782723537756_130karfp4",
       "title": "김원기 의정부시장, 초대 비서실장에 채민백 기획예산과장 임명",
       "subtitle": "김원기 의정부시장, 초대 비서실장에 채민백 기획예산과장 임명",
@@ -587,6 +610,6 @@
       }
     }
   ],
-  "count": 26,
-  "lastUpdated": "2026-06-29T09:00:48.052Z"
+  "count": 27,
+  "lastUpdated": "2026-07-01T11:37:56.408Z"
 }
