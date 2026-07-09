@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1783584163621_65nc8zoup",
+      "title": "의정부시의회, 제10대 전반기 원구성 완료 -전반기 의장에 조세일 의원 선출, 부의장에 빈미선 의원… 상임위원장 선출 마치고 10대 의회 출범 알려-",
+      "subtitle": "의정부시의회, 제10대 전반기 원구성 완료 -전반기 의장에 조세일 의원 선출, 부의장에 빈미선 의원… 상임위원장 선출 마치고 10대 의회 출범 알려-",
+      "category": "uijeongbu",
+      "summary": "의정부시의회, 제10대 전반기 원구성 완료\n-전반기 의장에 조세일 의원 선출, 부의장에 빈미선 의원… 상임위원장 선출 마치고 10대 의회 출범 알려-",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1783583888819\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202607/featured/1783583884559_ngvfkfvi1.jpg\" alt=\"의정부시의회원구성\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer; width: 1920px;\"></p><div style=\"text-align: center;\"><b style=\"font-size: 1.05rem;\">의정부시의회, 제10대 전반기 원구성 완료</b></div><div style=\"text-align: center;\"><b>-전반기 의장에 조세일 의원 선출, 부의장에 빈미선 의원… 상임위원장 선출 마치고 10대 의회 출범 알려-&nbsp;</b></div><div style=\"text-align: center;\"><br></div><div>&nbsp; 의정부시의회는 8일, 제345회 임시회 제2차 본회의를 열어 제10대 전반기 의장단 및 상임위원장 선거를 실시하고 원구성을 전격 완료했다.</div><div><br></div><div>&nbsp; 이날 투표 결과, 제10대 의정부시의회 전반기를 이끌어갈 의장에는 조세일 의원(더불어민주당)이, 부의장에는 빈미선 의원(국민의힘)이 각각 선출됐다.&nbsp;</div><div><br></div><div>&nbsp; 행정복지위원회는 최선자 의원(더불어민주당)이 위원장으로 선출됐고, 주제하 의원(국민의힘)이 부위원장을 맡았으며 이규헌 의원(더불어민주당)·권영선 의원(더불어민주당)·이다연 의원(국민의힘)·최혜령 의원(더불어민주당)이 위원으로 선임됐다.</div><div><br></div><div>&nbsp; 도시환경위원회는 정성교 의원(더불어민주당)이 위원장으로 선출됐고, 안금례 의원(국민의힘)이 부위원장을 맡았으며 빈미선 의원(국민의힘)·김호경 의원(국민의힘)·이광수 의원(더불어민주당)·윤미숙 의원(더불어민주당)이 위원으로 선임됐다.</div><div><br></div><div>&nbsp; 운영위원회는 김호경 의원(국민의힘)이 위원장으로 선출됐고, 주제하 의원(국민의힘)·이광수 의원(더불어민주당)·안금례 의원(국민의힘)·윤미숙 의원(더불어민주당)이 위원으로 활동한다.</div><div><br></div><div>&nbsp; 이어 열린 개회식에서는 의원 선서를 통해 시민을 위한 책임 있는 의정활동을 다짐하고, 윤리강령을 낭독하며 청렴한 의회 구현 의지를 밝혔다.</div><div><br></div><div>&nbsp; 제10대 전반기 의장으로 선출된 조세일 의장은 당선 인사를 통해 “저를 의정부시의회 제10대 전반기 의장으로 선출해주신 의원들께 진심으로 감사하다”며, “막중한 책임감을 깊이 새기며 시민의 기대와 신뢰에 부응할 수 있도록 최선을 다하겠다”고 포부를 밝혔다.</div><div><br></div><div>&nbsp; 한편, 원구성을 성황리에 마친 제10대 의정부시의회는 오는 22일부터 31일까지 10일간 제346회 임시회를 열고 각 상임위원회별 조례안 심사 및 주요업무계획 보고 청취 등 민생 현안 해결을 위한 본격적인 의정 행보를 이어갈 예정이다.&nbsp;</div>",
+      "author": {
+        "name": "이슈인사이드뉴스 박민호 기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시의회원구성 조세일의장 이슈인사이드뉴스 박민호기자"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202607/featured/1783583884559_ngvfkfvi1.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-07-09T08:02:43.621Z",
+        "updatedAt": "2026-07-09T08:02:47.094Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1783237822977_0o06fw79h",
       "title": "의저부시 중랑천 징검다리 물길 열어 집중 호우 대비 강화",
       "subtitle": "",
@@ -679,6 +702,6 @@
       }
     }
   ],
-  "count": 30,
-  "lastUpdated": "2026-07-05T07:51:38.757Z"
+  "count": 31,
+  "lastUpdated": "2026-07-09T08:04:38.342Z"
 }
