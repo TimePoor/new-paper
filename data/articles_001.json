@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1784945222029_c46ipxqgx",
+      "title": "이광수 의원 \"재정위기, 숨길 것이 아니라 시민과 함께 해결해야\"",
+      "subtitle": "이광수 의원 \"재정위기, 숨길 것이 아니라 시민과 함께 해결해야\"",
+      "category": "uijeongbu",
+      "summary": "이광수 의원 \"재정위기, 숨길 것이 아니라 시민과 함께 해결해야\"",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1784945088092\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202607/featured/1784945085747_5dirln0w1.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><b>이광수 의원 \"재정위기, 숨길 것이 아니라 시민과 함께 해결해야\"</b><div><b><br></b><div>의정부시의회 이광수 의원(더불어민주당, 나선거구)은 제346회 임시회 제1차 본회의 5분 자유발언을 통해 의정부시의 재정위기 실태를 시민들에게 투명하게 공개하고, 이를 바탕으로 위기 극복을 위한 사회적 공감대를 형성해야 한다고 강조했다.</div><div>이 의원은 \"행정의 신뢰는 정보를 감추는 것이 아니라 시민에게 있는 그대로 알리는 것에서 시작된다\"며 \"재정위기를 정확히 공유해야 시민과 함께 해결책을 만들어 갈 수 있다\"고 밝혔다.</div><div>특히 지난 6월 시민주권 인수위원회가 발표한 재정 분석 결과를 언급하며 의정부시의 재정 상황이 매우 심각한 수준이라고 진단했다.</div><div>그는 현재 의정부시의 재정자립도가 19.4% 수준에 머물러 전국 최하위권이며, 자체 재원만으로는 공무원 인건비와 필수 행정경비조차 안정적으로 감당하기 어려운 구조라고 설명했다. 또한 올해 하반기에만 가용재원 부족 규모가 약 100억 원에 달하는 등 재정운영의 어려움이 현실화되고 있다고 지적했다.</div><div>이 의원은 \"시민의 신뢰를 얻기 위해서는 재정의 현주소를 솔직하게 공개하는 것이 우선\"이라며 \"투명한 정보 공개와 책임 있는 재정 운영을 통해 시민과 함께 위기를 극복해 나가야 한다\"고 강조했다.</div></div>",
+      "author": {
+        "name": "이슈인사이드뉴스 박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시의회이광수 이광수5분발언 의정부시 이광수"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202607/featured/1784945085747_5dirln0w1.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-07-25T02:07:02.026Z",
+        "updatedAt": "2026-07-25T02:07:04.218Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1784944857336_yyqyn9vp5",
       "title": "의정부시의회 조세일 의장 8호선 연장 시민 염원 서명운동 동참",
       "subtitle": "의정부시의회 조세일 의장 8호선 연장 시민 염원 서명운동 동참",
@@ -746,6 +769,6 @@
       }
     }
   ],
-  "count": 33,
-  "lastUpdated": "2026-07-25T02:06:03.967Z"
+  "count": 34,
+  "lastUpdated": "2026-07-25T02:10:00.368Z"
 }
