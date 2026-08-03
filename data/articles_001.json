@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785775298362_hkspvaxd6",
+      "title": "김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"",
+      "subtitle": "김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"",
+      "category": "politics",
+      "summary": "김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785775279899\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785775275541_46ajfqe2b.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p><strong>김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"</strong></p><p>김용 더불어민주당 최고위원 후보가 오는 <strong>8월 17일 전당대회 당대표 선거</strong>와 관련해 결선투표(선호투표)까지 이어지지 않을 가능성이 높다는 전망을 내놓았다.</p><p>김 후보는 **3일 MBC 라디오 '김종배의 시선집중'**에 출연해 \"당대표 선거는 결선투표 없이 마무리될 것으로 본다\"며 \"김민석 후보가 과반 득표를 기록할 가능성도 충분하다\"고 말했다.</p><p>그는 현재 판세에 대해 \"송영길 후보는 과거 당대표를 지낸 경험이 있고 당내 기반과 지지층도 탄탄한 인물\"이라면서도 \"최근 흐름을 보면 경쟁 구도가 점차 양강 체제로 재편되고 있다\"고 분석했다.</p><p>이어 \"송 후보의 지지세가 일정 부분 유지되고 있지만, 현재의 판세를 종합하면 김민석 후보가 50% 이상 득표할 가능성을 배제하기 어렵다\"고 전망했다.</p><p>한편 김 후보는 최근 지역 민심과 관련해서도 \"호남 지역에서는 '정청래 후보를 다시 보게 됐다'는 반응이 적지 않게 나오고 있다\"며 일부 민심 변화가 감지되고 있다고 주장했다.</p><p>또한 이른바 '팀 정청래'를 둘러싼 선거운동 방식에 대해서는 \"투표를 강요하는 듯한 비민주적 방식에는 동의하지 않는다\"며 \"그러한 방식의 희생양이 되고 싶지 않다\"고 밝혔다.</p>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "김용최고위워후보 더불어민주당"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785775275541_46ajfqe2b.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-08-03T04:39:00.000Z",
+        "updatedAt": "2026-08-03T16:41:42.351Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785761925698_h75sgz1xf",
       "title": "의정부시, 박지혜 국회의원과 첫 당정협의회... 국비 확보: 지역 현안 해결에 힘 모은다",
       "subtitle": "의정부시, 박지혜 국회의원과 첫 당정협의회... 국비 확보: 지역 현안 해결에 힘 모은다",
@@ -816,6 +839,6 @@
       }
     }
   ],
-  "count": 36,
-  "lastUpdated": "2026-08-03T16:37:43.587Z"
+  "count": 37,
+  "lastUpdated": "2026-08-03T16:44:07.921Z"
 }
