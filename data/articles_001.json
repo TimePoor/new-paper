@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785778510241_tlp725qdg",
+      "title": "의정부시 김원기 시장, 국토부.대광위 이어 기획예산처에'8호선 연장' 지원 요청",
+      "subtitle": "의정부시 김원기 시장, 국토부.대광위 이어 기획예산처에'8호선 연장' 지원 요청",
+      "category": "uijeongbu",
+      "summary": "김원기 의정부시장이 국토교통부와 대도시권광역교통위원회에 이어 31일 국회에서 박홍근 기획예산처 장관을 만나 지하철 8호선 의정부 연장사업의 필요성을 설명하고, 국가 차원의 예산 지원을 요청했다고 밝혔다.\n\n \n\n이번 면담은 대도시권광역교통위원회가 수립 중인 '제5차 광역교통 시행계획'에 8호선 의정부 연장사업을 반영하고, 향후 사업 추진에 필요한 재정 기반",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785778306713\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785778301799_gojj5lzv5.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer; float: none; display: block; margin-right: auto; margin-left: 0px;\">김원기 의정부시장이 국토교통부와 대도시권광역교통위원회에 이어 31일 국회에서 박홍근 기획예산처 장관을 만나 지하철 8호선 의정부 연장사업의 필요성을 설명하고, 국가 차원의 예산 지원을 요청했다고 밝혔다.</p><p style=\"text-align: center; margin-bottom: 20px;\">이번 면담은 대도시권광역교통위원회가 수립 중인 '제5차 광역교통 시행계획'에 8호선 의정부 연장사업을 반영하고, 향후 사업 추진에 필요한 재정 기반을 마련하기 위해 이뤄졌다.</p><p style=\"text-align: center; margin-bottom: 20px;\">김 시장은 의정부 지역이 국토교통부의 공공주택 공급 정책에 따라 민락.고산지구 등 대규모 주거단지 개발로 인구가 증가하고 있음에도, 이를 뒷받침할 광역철도망이 부족해 시민 불편과 지방자치단체의 행정 부담이 가중되고 있다고 설명하고, 지하철 8호선 의정부 연장사업이 수도권 순환철도망의 단절 구간을 연결하고, 광역철도 운영 효율성을 높이는 핵심 사업이라고 강조하며 국가 차원의 지원 필요성을 제기했다.</p><p style=\"text-align: center; margin-bottom: 20px;\">아울러 '제5차 광역교통 시행계획' 수립 과정에서 신규 사업 검토가 폭넓게 이뤄질 수 있도록 정부의 관심을 요청하고, 계획 반영 이후에도 원활한 사업 추진을 위한 예산 확보와 재정 지원을 건의했다.</p><p style=\"text-align: left; margin-bottom: 20px;\">김 시장은 \"지하철 8호선 의정부 연장은 46만 시민의 오랜 숙원사업이자 수도권 균형발전과 국가철도망 완성을 위한 필수 사업\"이라며 \"정부와 지속적으로 협의해 '제5차 광역교통 시행계획' 반영과 예산 확보에 최선을 다하겠다\"고 말했다.</p>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부시8호선 김원기시장"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785778301799_gojj5lzv5.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-08-01T02:32:00.000Z",
+        "updatedAt": "2026-08-03T17:35:13.211Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785777940303_vkpb91ado",
       "title": "K-콘텐츠 세계적 인기 지속…한류, 문화산업 성장 이끈다.",
       "subtitle": "K-콘텐츠 세계적 인기 지속…한류, 문화산업 성장 이끈다.",
@@ -904,6 +927,6 @@
       }
     }
   ],
-  "count": 40,
-  "lastUpdated": "2026-08-03T17:26:39.779Z"
+  "count": 41,
+  "lastUpdated": "2026-08-03T17:37:13.578Z"
 }
