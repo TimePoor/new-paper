@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785777208658_pac3vfqbu",
+      "title": "이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.",
+      "subtitle": "이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.",
+      "category": "economy",
+      "summary": "이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785777201504\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785777189800_bti6zy2me.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p><strong>이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.</strong></p><p>대통령실에 따르면 이재명 대통령은 3일 오전 귀국 후 곧바로 청와대로 출근해 비공개로 '부동산 및 주식시장 점검회의'를 주재했다. 이날 회의에는 한성숙 국무총리를 비롯해 관계부처 장관과 실무 책임자들이 참석했으며, 오후 3시부터 약 7시간 30분 동안 진행됐다.</p><p>회의에서는 정부가 발표한 부동산 세제 개편안과 최근 시행된 단일종목 레버리지 ETF 보완 대책, 시장 동향 등이 종합적으로 보고됐다. 이 대통령은 실무 부처 관계자들에게 주요 현안을 직접 질의하며 시장 안정과 정책 실효성을 높일 수 있는 방안을 적극적으로 검토할 것을 주문한 것으로 전해졌다.</p><p>특히 이 대통령은 <strong>2022년 이후 이어진 주택 공급 부진이 현재의 공급 부족을 초래했다</strong>고 진단하며, 주택시장 안정을 위해서는 무엇보다 <strong>공급 확대와 공급 속도</strong>가 핵심이라고 강조했다.</p><p>또한 가능한 행정적 지원과 금융·재정 정책, 규제 개선 등을 총동원해 주택 공급을 앞당길 수 있는 방안을 마련하고, 실제 공급 물량을 최대한 확보하라고 관계 부처에 지시했다.</p><p>이와 함께 한성숙 국무총리와 관계부처에는 기존 주택 공급 정책을 전면적으로 재검토하고, 국민이 체감할 수 있는 현실적인 대책을 마련해 신속하게 추진할 것을 당부했다.</p><p>아울러 금융시장과 주택 공급 대책의 추가 보완을 위해 <strong>2~3일 내 후속 점검회의를 다시 개최</strong>하고, 구체적인 실행 방안을 보고받을 것을 지시하며 시장 안정화 의지를 거듭 밝혔다.</p>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785777189800_bti6zy2me.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-08-03T17:12:00.000Z",
+        "updatedAt": "2026-08-03T17:13:38.276Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785775298362_hkspvaxd6",
       "title": "김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"",
       "subtitle": "김용 \"민주당 대표 선거, 결선투표 없이 끝날 가능성…김민석 과반도 가능\"",
@@ -839,6 +860,6 @@
       }
     }
   ],
-  "count": 37,
-  "lastUpdated": "2026-08-03T16:44:07.921Z"
+  "count": 38,
+  "lastUpdated": "2026-08-03T17:16:18.821Z"
 }
