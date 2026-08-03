@@ -3,6 +3,27 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785777537592_rkgoac7qe",
+      "title": "폭염 장기화에 온열질환자 급증…고령층·야외근로자 각별한 주의",
+      "subtitle": "폭염 장기화에 온열질환자 급증…고령층·야외근로자 각별한 주의",
+      "category": "society",
+      "summary": "폭염 장기화에 온열질환자 급증…고령층·야외근로자 각별한 주의",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785777524295\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785777513750_9cg0ew5m2.png\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p>폭염 장기화에 온열질환자 급증…고령층·야외근로자 각별한 주의<div><br></div><div>연일 이어지는 기록적인 폭염으로 전국에서 온열질환자가 빠르게 증가하면서 건강관리에 비상이 걸렸다.&nbsp;</div><div><br></div><div>특히 고령층과 농업인, 건설현장 근로자 등 장시간 야외활동을 하는 계층의 피해가 잇따르면서 각별한 주의가 요구되고 있다.</div><div><br></div><div>질병관리청에 따르면 폭염이 이어질수록 열사병, 열탈진, 열경련 등 온열질환 발생 위험이 크게 높아진다. 고령자와 만성질환자는 체온 조절 능력이 떨어져 일반인보다 더욱 위험할 수 있어 각별한 관리가 필요하다.</div><div><br></div><div>전문가들은 가장 더운 오후 시간대에는 가급적 야외활동을 자제하고, 갈증을 느끼지 않더라도 충분한 수분을 섭취해야 한다고 조언한다. 또한 통풍이 잘되는 밝은색 옷을 착용하고, 장시간 햇볕에 노출되는 상황을 피하는 것이 중요하다고 강조했다.</div><div><br></div><div>정부와 지방자치단체는 무더위쉼터 운영과 취약계층 안전 확인, 야외근로자 보호 대책 등을 강화하고 있으며, 사업장에도 충분한 휴식시간 보장과 냉방시설 운영 등 안전수칙 준수를 당부하고 있다.</div><div><br></div><div>의료계는 어지럼증, 심한 두통, 구토, 의식 저하 등의 증상이 나타날 경우 즉시 시원한 장소로 이동해 몸을 식히고, 신속히 의료기관에서 진료를 받아야 한다고 밝혔다.</div><div><br></div><div>전문가들은 기후변화로 폭염이 일상화되고 있는 만큼 폭염을 단순한 계절 현상이 아닌 사회적 재난으로 인식하고, 개인의 예방수칙 준수와 정부·지자체의 체계적인 대응이 함께 이루어져야 피해를 최소화할 수 있다고 강조했다.</div>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785777513750_9cg0ew5m2.png",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-08-01T05:17:00.000Z",
+        "updatedAt": "2026-08-03T17:19:00.993Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785777208658_pac3vfqbu",
       "title": "이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.",
       "subtitle": "이재명 대통령이 미국·남미 순방을 마친 직후 부동산과 주식시장 안정 대책을 직접 점검하며 민생 현안 대응에 나섰다.",
@@ -860,6 +881,6 @@
       }
     }
   ],
-  "count": 38,
-  "lastUpdated": "2026-08-03T17:16:18.821Z"
+  "count": 39,
+  "lastUpdated": "2026-08-03T17:21:38.879Z"
 }
