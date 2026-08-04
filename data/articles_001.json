@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785856506585_iye3u757s",
+      "title": "김용환 | 편집국장",
+      "subtitle": "",
+      "category": "opinion",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785856470500\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856461030_bqc0bbcl0.png\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p><strong>김용환 | 편집국장</strong></p><p><strong>사번 | 2006-0003</strong></p><p>ISSUE INSIDE NEWS 편집국장으로서 취재 및 편집 업무를 총괄하며, 정확하고 균형 잡힌 보도를 위해 편집 방향을 수립하고 기사의 완성도를 관리하고 있습니다. 공정한 언론 윤리와 사실에 기반한 보도를 원칙으로 독자에게 신뢰받는 뉴스를 전달하기 위해 노력하고 있습니다.</p><p><strong>■ 주요 업무</strong></p><ul><li>편집국 운영 총괄</li><li>취재 기획 및 기사 편집</li><li>보도 품질 관리</li><li>언론윤리 및 기사 검수</li><li>기자 교육 및 취재 지원</li></ul><p><strong>■ 활동 분야</strong></p><ul><li>정치</li><li>행정</li><li>사회</li><li>경제</li><li>기획취재</li><li>탐사보도</li></ul><p><strong>\"정확한 사실과 균형 있는 시각으로 신뢰받는 뉴스를 만듭니다.\"</strong></p>",
+      "author": {
+        "name": "인사과",
+        "email": ""
+      },
+      "tags": [
+        "김용환기자 이슈인사이드뉴스 IIN"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856461030_bqc0bbcl0.png",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-07-31T15:14:00.000Z",
+        "updatedAt": "2026-08-04T15:47:43.972Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785856341029_679hfako9",
       "title": "김철민 | 본부장",
       "subtitle": "",
@@ -1019,6 +1042,6 @@
       }
     }
   ],
-  "count": 45,
-  "lastUpdated": "2026-08-04T15:48:22.424Z"
+  "count": 46,
+  "lastUpdated": "2026-08-04T15:51:24.323Z"
 }
