@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785822505931_yzydzbkwp",
+      "title": "⁃ 고산지구 주차난 해소:보행 안전 개선 기대 - ",
+      "subtitle": "의정부시, 고산지구 공영주차장 40면 조성..∙주차 숙통 틔운다.",
+      "category": "uijeongbu",
+      "summary": "⁃ 고산지구 주차난 해소:보행 안전 개선 기대 - ",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785822428774\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785822425029_cmxpc0kgl.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p>⁃ 고산지구 주차난 해소:보행 안전 개선 기대 -&nbsp;<div><br></div><div>의정부시, 고산지구 공영주차장 40면 조성..∙주차 숙통 틔운다.<div><br><div>의정부시(시장 김원기)는 고산동 959-3번지에 총 40면 규모의 동 제3공영주차장' 을 조성하고 본격적인 운영에 들어간다.</div><div><br></div><div>시는 주택과 상가가 존재해 주차난과 도로변 불법주정차 민원이 지 속적으로 제기돼 온 고산지구의 교통 환경을 개선하고자 해당 주차장 을 조성했다.</div><div><br></div><div>특히 해당 지역은 인도 낮출 구간을 이용해 차량을 인도 위에 주차 하는 사례가 빈번해 보행자 안전을 위협한다는 지적이 이어졌다. 시 는 공영주차장 조성을 통해 주차 불편을 줄이는 동시에 보행 안전을 확보하는 데 중점을 뒀다.</div><div><br></div><div>이번 사업의 가장 큰 특징은 일반 주차면 전체를 '확장형 주차구 획' 으로 조성한 점이다. 기존 일반 주차면보다 폭을 넓혀 차량 문을 여닫을 수 있는 공간을 충분히 확보함으로써 이용 편의를 높이고 차 량 간 접촉과 이른바 '문콕' 사고 위험도 줄였다.</div><div><br></div><div>시는 생활권 내 주차 공간 확충으로 주민 불편이 줄고 보행환경도 한층 개선될 것으로 기대하고 있다. 아울러 인근 상가 방문객의 주차 편의가 향상돼 지역 상권 활성화에도 도움이 될 것으로 전망된다.</div><div><br></div><div>최종훈 주차관리과장은 \"이번 공영주차장 조성이 고산지구 주민과 상인들의 답답했던 주차 숨통을 틔워줄 것으로 기대한다\" 며 앞으 로도 생활권별 주차 수요를 지속적으로 분석해 공영주차장을 단계적 으로 확충해 나가겠다' 고 말했다.</div></div></div>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "고산지구주차난해소보행안전개선"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785822425029_cmxpc0kgl.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": true,
+        "publishedAt": "2026-08-04T05:45:00.000Z",
+        "updatedAt": "2026-08-04T05:48:29.235Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785820781253_xd74gk4xu",
       "title": "의정부교육지원청, 여름방학 AI·과학·환경 캠프 운영",
       "subtitle": "- 디지털 디톡스부터 자율주행·가드닝까지 체험 중심 운영 -",
@@ -950,6 +973,6 @@
       }
     }
   ],
-  "count": 42,
-  "lastUpdated": "2026-08-04T05:21:30.074Z"
+  "count": 43,
+  "lastUpdated": "2026-08-04T05:51:07.021Z"
 }
