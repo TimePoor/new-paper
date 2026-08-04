@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785820781253_xd74gk4xu",
+      "title": "의정부교육지원청, 여름방학 AI·과학·환경 캠프 운영",
+      "subtitle": "- 디지털 디톡스부터 자율주행·가드닝까지 체험 중심 운영 -",
+      "category": "uijeongbu",
+      "summary": "의정부교육지원청, 여름방학 AI·과학·환경 캠프 운영",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785820680490\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785820674490_mdf7hvlsu.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><div>의정부교육지원청, 여름방학 AI·과학·환경 캠프 운영</div><div><br></div><div><br></div><div>- 디지털 디톡스부터 자율주행·가드닝까지 체험 중심 운영 -</div><div><br></div><div>◦ 1일차 디지털 디톡스, 2일차 AI 기반 창의과학, 3일차 환경 캠프로 운영</div><div><br></div><div>◦ 대학생 멘토와 함께하는 오감올림픽, 자율주행 자동차, 가드닝 체험</div><div><br></div><div><br></div><div>경기도의정부교육지원청(교육장 서권호)은 2026년 8월 4일(화)부터 8월 7일(목)까지 의정부교육지원청 영재교육원에서 「AI·과학·환경 캠프」를 운영하였다.</div><div><br></div><div><br></div><div>이번 캠프는 여름방학을 맞아 학생들의 디지털 과의존을 예방하고, 건전한 미디어 사용 습관 형성과 또래 간 협력과 관계 형성을 지원하고자 마련되었다.</div><div><br></div><div><br></div><div>AI 과학 환경 캠프는 체험 중심의 3일 과정으로 ▲ 1일차 디지털 디톡스 캠프(오감올림필) ▲ 2일차 AI 기반 창의과학(자율주행자동차)</div><div><br></div><div>▲ 3일차 환경 캠프(가드닝 체험)으로 운영 되었다.</div><div><br></div><div><br></div><div>학생들은 디지털 기기에서 벗어나 또래와 소통·협력하면서 건강한 생활 습관과 공동체 의식을 기르는 시간을 가졌으며, 특히 지역 대학생 멘토와의 학습을 통해 실질적인 도움과 동기부여를 얻었다.</div><div><br></div><div><br></div><div>의정부교육지원청은 앞으로도 체험 중심 프로그램을 통해 과학적 사고력과 환경 감수성 함양을 지속적으로 지원할 계획이다.</div><div><br></div><div><br></div><div>서권호 교육장은 “학생들이 디지털을 균형 있게 활용하고 미래 사회를 주도할 인재로 성장하기를 기대한다”고 말했다.</div><div><br></div>",
+      "author": {
+        "name": "IIN.박민호기자",
+        "email": "ujbtimes@naver.com"
+      },
+      "tags": [
+        "의정부교육지원청여름방학AI과학환경캠프운영"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785820674490_mdf7hvlsu.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-08-04T05:19:00.000Z",
+        "updatedAt": "2026-08-04T05:19:48.539Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785778510241_tlp725qdg",
       "title": "의정부시 김원기 시장, 국토부.대광위 이어 기획예산처에'8호선 연장' 지원 요청",
       "subtitle": "의정부시 김원기 시장, 국토부.대광위 이어 기획예산처에'8호선 연장' 지원 요청",
@@ -927,6 +950,6 @@
       }
     }
   ],
-  "count": 41,
-  "lastUpdated": "2026-08-03T17:37:13.578Z"
+  "count": 42,
+  "lastUpdated": "2026-08-04T05:21:30.074Z"
 }
