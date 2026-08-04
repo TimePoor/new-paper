@@ -49,29 +49,6 @@
       }
     },
     {
-      "id": "article_1785856341029_679hfako9",
-      "title": "김철민 | 본부장",
-      "subtitle": "",
-      "category": "opinion",
-      "summary": "",
-      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785856281931\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856276442_xjokmzjwn.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p><strong>김철민 | 본부장</strong></p><p>ISSUE INSIDE NEWS 본부장으로서 조직 운영과 대외 협력, 취재 지원 업무를 총괄하고 있습니다. 원활한 취재 환경 조성과 효율적인 조직 운영을 바탕으로 언론의 공공성과 신뢰성을 높이는 데 힘쓰고 있으며, 지역사회와의 소통 및 협력 체계 구축에도 적극적으로 참여하고 있습니다.</p><p><strong>■ 주요 업무</strong></p><ul><li>조직 운영 총괄</li><li>대외협력 및 기관 협업</li><li>취재 지원 및 운영 관리</li><li>언론 홍보 및 사업 기획</li></ul><p><strong>■ 활동 분야</strong></p><ul><li>언론행정</li><li>대외협력</li><li>조직운영</li><li>지역사회 협력</li><li>홍보기획</li></ul><p><strong>\"신뢰를 바탕으로 언론의 가치를 높이고, 현장을 연결합니다.\"</strong></p>",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [
-        "김철민기자 이슈인사이드뉴스 IIN"
-      ],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856276442_xjokmzjwn.jpg",
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2026-07-31T15:11:00.000Z",
-        "updatedAt": "2026-08-04T15:12:22.719Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1785856049555_zrjpipjfg",
       "title": "IISSUE INSIDE NEWS.CEO",
       "subtitle": "박민호",
@@ -1065,6 +1042,6 @@
       }
     }
   ],
-  "count": 47,
-  "lastUpdated": "2026-08-04T16:00:31.849Z"
+  "count": 46,
+  "lastUpdated": "2026-08-04T16:04:15.643Z"
 }
