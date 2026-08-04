@@ -3,29 +3,6 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
-      "id": "article_1785856725555_c9bhnlt8g",
-      "title": "박영길 상임이사",
-      "subtitle": "",
-      "category": "opinion",
-      "summary": "",
-      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785856711491\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856696382_flkylf8ec.png\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p>박영길 | 상임이사<div><br></div><div>ISSUE INSIDE NEWS 상임이사로서 조직 운영과 경영 지원, 대외협력 업무를 담당하며 언론사의 안정적인 운영과 발전을 위해 노력하고 있습니다. 언론의 공공성과 책임을 바탕으로 조직의 경쟁력을 강화하고, 지역사회 및 유관기관과의 협력 체계를 구축하여 신뢰받는 언론 환경 조성에 기여하고 있습니다.</div><div><br></div><div>■ 주요 업무</div><div><br></div><div>- 경영 지원 및 조직 운영</div><div>- 대외협력 및 기관 협력</div><div>- 주요 사업 기획</div><div>- 조직 발전 및 운영 자문</div><div>- 언론사 운영 지원</div><div><br></div><div>■ 활동 분야</div><div><br></div><div>- 경영관리</div><div>- 대외협력</div><div>- 언론행정</div><div>- 조직운영</div><div>- 사업기획</div><div><br></div><div>\"신뢰를 바탕으로 언론의 가치를 높이고 지속 가능한 성장을 이끌어갑니다.\"</div>",
-      "author": {
-        "name": "편집부",
-        "email": ""
-      },
-      "tags": [
-        "박영길기자 이슈인사이드뉴스 IIN"
-      ],
-      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785856696382_flkylf8ec.png",
-      "metadata": {
-        "status": "published",
-        "featured": false,
-        "publishedAt": "2026-07-31T15:17:00.000Z",
-        "updatedAt": "2026-08-04T15:18:47.360Z",
-        "views": 0
-      }
-    },
-    {
       "id": "article_1785856506585_iye3u757s",
       "title": "김용환 | 편집국장",
       "subtitle": "",
@@ -1065,6 +1042,6 @@
       }
     }
   ],
-  "count": 47,
-  "lastUpdated": "2026-08-04T15:19:34.080Z"
+  "count": 46,
+  "lastUpdated": "2026-08-04T15:42:01.724Z"
 }
