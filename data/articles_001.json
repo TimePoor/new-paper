@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785856049555_zrjpipjfg",
+      "title": "IISSUE INSIDE NEWS.CEO",
+      "subtitle": "박민호",
+      "category": "opinion",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785855409666\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785855398591_4vyvqaqg4.png\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><b>박민호 | 대표· 발행인</b><div><br></div><div>ISSUE INSIDE NEWS(이슈인사이드뉴스) 대표 겸 발행인으로서 공정성과 객관성을 바탕으로 한 책임 있는 언론을 지향하고 있습니다.&nbsp;</div><div><br></div><div>지역사회와 국민의 알 권리를 위해 정치, 행정, 경제, 사회 등 다양한 분야의 현안을 심층적으로 취재·보도하며, 신뢰받는 언론 문화 조성과 건강한 공론장 형성에 기여하고 있습니다.</div><div><br></div><div>■ 주요 경력</div><div>• ISSUE INSIDE NEWS 대표·&nbsp; &nbsp; &nbsp; &nbsp;발행인</div><div>• 외식 창업 전문가.마케팅 전문가</div><div>• 정책·행정·문화예술 분야 기획&nbsp; &nbsp; &nbsp;자</div><div>• 대한민국 공익활동 및 정책 제안</div><div><br></div><div>■ 활동 분야</div><div>• 정치</div><div>• 행정</div><div>• 기획</div><div>• 지역현안</div><div>• 정책제안</div><div>• 문화예술</div><div>• 소상공인 창업 마케팅</div><div><br></div><div>\"사실에 기반한 보도, 신뢰로 답하는 언론.\"<br><hr style=\"margin-top: 20px; margin-bottom: 20px;\"></div>",
+      "author": {
+        "name": "편집부",
+        "email": ""
+      },
+      "tags": [
+        "박민호ceo 이슈인사이드뉴스 IIN"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785855398591_4vyvqaqg4.png",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2018-09-01T14:57:00.000Z",
+        "updatedAt": "2026-08-04T15:07:34.771Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785822505931_yzydzbkwp",
       "title": "⁃ 고산지구 주차난 해소:보행 안전 개선 기대 - ",
       "subtitle": "의정부시, 고산지구 공영주차장 40면 조성..∙주차 숙통 틔운다.",
@@ -973,6 +996,6 @@
       }
     }
   ],
-  "count": 43,
-  "lastUpdated": "2026-08-04T05:51:07.021Z"
+  "count": 44,
+  "lastUpdated": "2026-08-04T15:10:12.283Z"
 }
