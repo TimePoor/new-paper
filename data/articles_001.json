@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785935783682_w2xrgcrpe",
+      "title": "제22회 현인가요제 성황리 개최… 전국 실력파 가수들의 열정 빛났다",
+      "subtitle": "",
+      "category": "entertainment",
+      "summary": "제22회 현인가요제 성황리 개최… 전국 실력파 가수들의 열정 빛났다",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785935739474\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785935737619_bhxyf8pm6.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785935736178\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785935732164_isu9sw5w6.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\"></p><b>제22회 현인가요제 성황리 개최… 전국 실력파 가수들의 열정 빛났다</b><div><br></div><div>부산 송도해수욕장에서 열린 대한민국 대표 가요 경연 축제</div><div><br></div><div>(사)한국연예예술인총연합회가 주최·주관한 제22회 현인가요제가 지난 8월 1일부터 2일까지 부산 송도해수욕장 특설무대에서 성황리에 개최됐다.</div><div><br></div><div>대한민국 대중가요의 전통과 신인 가수 발굴을 위한 대표 경연대회인 현인가요제는 전국 각지에서 참가한 실력파 예비 가수들이 치열한 경쟁을 펼치며 수준 높은 무대를 선보였다.</div><div><br></div><div>이번 대회는 여러 차례의 예선을 거쳐 선발된 5명의 본선 진출자가 최종 무대에 올라 열띤 경연을 펼쳤으며, 대상 수상자에게는 상금 1,000만 원이 수여됐다.</div><div><br></div><div>최종 심사 결과 김현진 참가자가 영예의 대상을 차지했으며, 시상은 공한수 부산 서구청장이 맡아 축하와 격려를 전했다.</div><div><br></div><div>축하공연 역시 관객들의 큰 호응을 얻었다. 가수 서지오, 구수경, 조영남, 별사랑, 박지현 등이 무대에 올라 다채로운 공연을 선보였으며, 특히 박지현의 무대에는 대규모 팬들이 함께해 현장의 열기를 더욱 뜨겁게 달궜다.</div><div><br></div><div>행사가 열린 부산 송도해수욕장에는 수많은 시민과 관광객이 몰려 공연장을 가득 메우며 대한민국 대표 여름 음악축제의 위상을 다시 한번 확인시켰다.</div><div><br></div><div>현인가요제는 신인 가수들에게 꿈과 도전의 무대를 제공하는 동시에 대중가요의 발전과 문화예술 활성화에 기여하는 전국 규모의 권위 있는 음악 경연대회로 자리매김하고 있다.</div>",
+      "author": {
+        "name": "김용환기자",
+        "email": "Yhkim22000@hanmail.net"
+      },
+      "tags": [
+        "제22회현인가요제 김용환기자 IIN"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785935737619_bhxyf8pm6.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-08-05T13:13:00.000Z",
+        "updatedAt": "2026-08-05T13:16:27.699Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785930657418_ekdsjb2c0",
       "title": "김철민|본부장 ",
       "subtitle": "",
@@ -1065,6 +1088,6 @@
       }
     }
   ],
-  "count": 47,
-  "lastUpdated": "2026-08-05T11:53:07.194Z"
+  "count": 48,
+  "lastUpdated": "2026-08-05T13:18:17.545Z"
 }
