@@ -3,6 +3,29 @@
   "createdAt": "2025-08-22T07:49:58.841Z",
   "articles": [
     {
+      "id": "article_1785930657418_ekdsjb2c0",
+      "title": "김철민|본부장 ",
+      "subtitle": "",
+      "category": "opinion",
+      "summary": "",
+      "content": "<p style=\"text-align: center; margin-bottom: 20px;\"><img id=\"thumbnail_1785930521699\" src=\"https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785930516980_hm8u21544.jpg\" alt=\"대표 이미지\" style=\"max-width: 100%; height: auto; border-radius: 8px; cursor: pointer;\">김철민 | 본부장</p><p style=\"text-align: center; margin-bottom: 20px;\">사번 -2026-0002</p><p style=\"text-align: center; margin-bottom: 20px;\">ISSUE INSIDE NEWS 본부장으로서 조직 운영과 대외 협력, 취재 지원 업무를 총괄하고 있습니다. 원활한 취재 환경 조성과 효율적인 조직 운영을 바탕으로 언론의 공공성과 신뢰성을 높이는 데 힘쓰고 있으며, 지역사회와의 소통 및 협력 체계 구축에도 적극적으로 참여하고 있습니다.</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">■ 주요 업무</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">- 조직 운영 총괄</p><p style=\"text-align: center; margin-bottom: 20px;\">- 대외협력 및 기관 협업</p><p style=\"text-align: center; margin-bottom: 20px;\">- 취재 지원 및 운영 관리</p><p style=\"text-align: center; margin-bottom: 20px;\">- 언론 홍보 및 사업 기획</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">■ 활동 분야</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">- 언론행정</p><p style=\"text-align: center; margin-bottom: 20px;\">- 대외협력</p><p style=\"text-align: center; margin-bottom: 20px;\">- 조직운영</p><p style=\"text-align: center; margin-bottom: 20px;\">- 지역사회 협력</p><p style=\"text-align: center; margin-bottom: 20px;\">- 홍보기획</p><p style=\"text-align: center; margin-bottom: 20px;\"><br></p><p style=\"text-align: center; margin-bottom: 20px;\">\"신뢰를 바탕으로 언론의 가치를 높이고, 현장을 연결합니다.\"</p>",
+      "author": {
+        "name": "인사과",
+        "email": ""
+      },
+      "tags": [
+        "김철민기자 이슈인사이드뉴스 IIN"
+      ],
+      "featuredImage": "https://raw.githubusercontent.com/TimePoor/new-paper-img-cdn/main/images/202608/featured/1785930516980_hm8u21544.jpg",
+      "metadata": {
+        "status": "published",
+        "featured": false,
+        "publishedAt": "2026-08-01T11:49:00.000Z",
+        "updatedAt": "2026-08-05T11:51:01.459Z",
+        "views": 0
+      }
+    },
+    {
       "id": "article_1785856049555_zrjpipjfg",
       "title": "IISSUE INSIDE NEWS.박민호 CEO",
       "subtitle": "박민호 대표",
@@ -1042,6 +1065,6 @@
       }
     }
   ],
-  "count": 46,
-  "lastUpdated": "2026-08-04T16:10:40.524Z"
+  "count": 47,
+  "lastUpdated": "2026-08-05T11:53:07.194Z"
 }
